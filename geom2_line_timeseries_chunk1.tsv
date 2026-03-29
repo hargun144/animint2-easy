@@ -1,0 +1,1705 @@
+group	colour	x	y	showSelected1	showSelected2
+1	#00BF7D	1952	28.801	Afghanistan	Asia
+1	#00BF7D	1957	30.332	Afghanistan	Asia
+1	#00BF7D	1962	31.997	Afghanistan	Asia
+1	#00BF7D	1967	34.02	Afghanistan	Asia
+1	#00BF7D	1972	36.088	Afghanistan	Asia
+1	#00BF7D	1977	38.438	Afghanistan	Asia
+1	#00BF7D	1982	39.854	Afghanistan	Asia
+1	#00BF7D	1987	40.822	Afghanistan	Asia
+1	#00BF7D	1992	41.674	Afghanistan	Asia
+1	#00BF7D	1997	41.763	Afghanistan	Asia
+1	#00BF7D	2002	42.129	Afghanistan	Asia
+1	#00BF7D	2007	43.828	Afghanistan	Asia
+2	#00B0F6	1952	55.23	Albania	Europe
+2	#00B0F6	1957	59.28	Albania	Europe
+2	#00B0F6	1962	64.82	Albania	Europe
+2	#00B0F6	1967	66.22	Albania	Europe
+2	#00B0F6	1972	67.69	Albania	Europe
+2	#00B0F6	1977	68.93	Albania	Europe
+2	#00B0F6	1982	70.42	Albania	Europe
+2	#00B0F6	1987	72	Albania	Europe
+2	#00B0F6	1992	71.581	Albania	Europe
+2	#00B0F6	1997	72.95	Albania	Europe
+2	#00B0F6	2002	75.651	Albania	Europe
+2	#00B0F6	2007	76.423	Albania	Europe
+3	#F8766D	1952	43.077	Algeria	Africa
+3	#F8766D	1957	45.685	Algeria	Africa
+3	#F8766D	1962	48.303	Algeria	Africa
+3	#F8766D	1967	51.407	Algeria	Africa
+3	#F8766D	1972	54.518	Algeria	Africa
+3	#F8766D	1977	58.014	Algeria	Africa
+3	#F8766D	1982	61.368	Algeria	Africa
+3	#F8766D	1987	65.799	Algeria	Africa
+3	#F8766D	1992	67.744	Algeria	Africa
+3	#F8766D	1997	69.152	Algeria	Africa
+3	#F8766D	2002	70.994	Algeria	Africa
+3	#F8766D	2007	72.301	Algeria	Africa
+4	#F8766D	1952	30.015	Angola	Africa
+4	#F8766D	1957	31.999	Angola	Africa
+4	#F8766D	1962	34	Angola	Africa
+4	#F8766D	1967	35.985	Angola	Africa
+4	#F8766D	1972	37.928	Angola	Africa
+4	#F8766D	1977	39.483	Angola	Africa
+4	#F8766D	1982	39.942	Angola	Africa
+4	#F8766D	1987	39.906	Angola	Africa
+4	#F8766D	1992	40.647	Angola	Africa
+4	#F8766D	1997	40.963	Angola	Africa
+4	#F8766D	2002	41.003	Angola	Africa
+4	#F8766D	2007	42.731	Angola	Africa
+5	#A3A500	1952	62.485	Argentina	Americas
+5	#A3A500	1957	64.399	Argentina	Americas
+5	#A3A500	1962	65.142	Argentina	Americas
+5	#A3A500	1967	65.634	Argentina	Americas
+5	#A3A500	1972	67.065	Argentina	Americas
+5	#A3A500	1977	68.481	Argentina	Americas
+5	#A3A500	1982	69.942	Argentina	Americas
+5	#A3A500	1987	70.774	Argentina	Americas
+5	#A3A500	1992	71.868	Argentina	Americas
+5	#A3A500	1997	73.275	Argentina	Americas
+5	#A3A500	2002	74.34	Argentina	Americas
+5	#A3A500	2007	75.32	Argentina	Americas
+6	#E76BF3	1952	69.12	Australia	Oceania
+6	#E76BF3	1957	70.33	Australia	Oceania
+6	#E76BF3	1962	70.93	Australia	Oceania
+6	#E76BF3	1967	71.1	Australia	Oceania
+6	#E76BF3	1972	71.93	Australia	Oceania
+6	#E76BF3	1977	73.49	Australia	Oceania
+6	#E76BF3	1982	74.74	Australia	Oceania
+6	#E76BF3	1987	76.32	Australia	Oceania
+6	#E76BF3	1992	77.56	Australia	Oceania
+6	#E76BF3	1997	78.83	Australia	Oceania
+6	#E76BF3	2002	80.37	Australia	Oceania
+6	#E76BF3	2007	81.235	Australia	Oceania
+7	#00B0F6	1952	66.8	Austria	Europe
+7	#00B0F6	1957	67.48	Austria	Europe
+7	#00B0F6	1962	69.54	Austria	Europe
+7	#00B0F6	1967	70.14	Austria	Europe
+7	#00B0F6	1972	70.63	Austria	Europe
+7	#00B0F6	1977	72.17	Austria	Europe
+7	#00B0F6	1982	73.18	Austria	Europe
+7	#00B0F6	1987	74.94	Austria	Europe
+7	#00B0F6	1992	76.04	Austria	Europe
+7	#00B0F6	1997	77.51	Austria	Europe
+7	#00B0F6	2002	78.98	Austria	Europe
+7	#00B0F6	2007	79.829	Austria	Europe
+8	#00BF7D	1952	50.939	Bahrain	Asia
+8	#00BF7D	1957	53.832	Bahrain	Asia
+8	#00BF7D	1962	56.923	Bahrain	Asia
+8	#00BF7D	1967	59.923	Bahrain	Asia
+8	#00BF7D	1972	63.3	Bahrain	Asia
+8	#00BF7D	1977	65.593	Bahrain	Asia
+8	#00BF7D	1982	69.052	Bahrain	Asia
+8	#00BF7D	1987	70.75	Bahrain	Asia
+8	#00BF7D	1992	72.601	Bahrain	Asia
+8	#00BF7D	1997	73.925	Bahrain	Asia
+8	#00BF7D	2002	74.795	Bahrain	Asia
+8	#00BF7D	2007	75.635	Bahrain	Asia
+9	#00BF7D	1952	37.484	Bangladesh	Asia
+9	#00BF7D	1957	39.348	Bangladesh	Asia
+9	#00BF7D	1962	41.216	Bangladesh	Asia
+9	#00BF7D	1967	43.453	Bangladesh	Asia
+9	#00BF7D	1972	45.252	Bangladesh	Asia
+9	#00BF7D	1977	46.923	Bangladesh	Asia
+9	#00BF7D	1982	50.009	Bangladesh	Asia
+9	#00BF7D	1987	52.819	Bangladesh	Asia
+9	#00BF7D	1992	56.018	Bangladesh	Asia
+9	#00BF7D	1997	59.412	Bangladesh	Asia
+9	#00BF7D	2002	62.013	Bangladesh	Asia
+9	#00BF7D	2007	64.062	Bangladesh	Asia
+10	#00B0F6	1952	68	Belgium	Europe
+10	#00B0F6	1957	69.24	Belgium	Europe
+10	#00B0F6	1962	70.25	Belgium	Europe
+10	#00B0F6	1967	70.94	Belgium	Europe
+10	#00B0F6	1972	71.44	Belgium	Europe
+10	#00B0F6	1977	72.8	Belgium	Europe
+10	#00B0F6	1982	73.93	Belgium	Europe
+10	#00B0F6	1987	75.35	Belgium	Europe
+10	#00B0F6	1992	76.46	Belgium	Europe
+10	#00B0F6	1997	77.53	Belgium	Europe
+10	#00B0F6	2002	78.32	Belgium	Europe
+10	#00B0F6	2007	79.441	Belgium	Europe
+11	#F8766D	1952	38.223	Benin	Africa
+11	#F8766D	1957	40.358	Benin	Africa
+11	#F8766D	1962	42.618	Benin	Africa
+11	#F8766D	1967	44.885	Benin	Africa
+11	#F8766D	1972	47.014	Benin	Africa
+11	#F8766D	1977	49.19	Benin	Africa
+11	#F8766D	1982	50.904	Benin	Africa
+11	#F8766D	1987	52.337	Benin	Africa
+11	#F8766D	1992	53.919	Benin	Africa
+11	#F8766D	1997	54.777	Benin	Africa
+11	#F8766D	2002	54.406	Benin	Africa
+11	#F8766D	2007	56.728	Benin	Africa
+12	#A3A500	1952	40.414	Bolivia	Americas
+12	#A3A500	1957	41.89	Bolivia	Americas
+12	#A3A500	1962	43.428	Bolivia	Americas
+12	#A3A500	1967	45.032	Bolivia	Americas
+12	#A3A500	1972	46.714	Bolivia	Americas
+12	#A3A500	1977	50.023	Bolivia	Americas
+12	#A3A500	1982	53.859	Bolivia	Americas
+12	#A3A500	1987	57.251	Bolivia	Americas
+12	#A3A500	1992	59.957	Bolivia	Americas
+12	#A3A500	1997	62.05	Bolivia	Americas
+12	#A3A500	2002	63.883	Bolivia	Americas
+12	#A3A500	2007	65.554	Bolivia	Americas
+13	#00B0F6	1952	53.82	Bosnia and Herzegovina	Europe
+13	#00B0F6	1957	58.45	Bosnia and Herzegovina	Europe
+13	#00B0F6	1962	61.93	Bosnia and Herzegovina	Europe
+13	#00B0F6	1967	64.79	Bosnia and Herzegovina	Europe
+13	#00B0F6	1972	67.45	Bosnia and Herzegovina	Europe
+13	#00B0F6	1977	69.86	Bosnia and Herzegovina	Europe
+13	#00B0F6	1982	70.69	Bosnia and Herzegovina	Europe
+13	#00B0F6	1987	71.14	Bosnia and Herzegovina	Europe
+13	#00B0F6	1992	72.178	Bosnia and Herzegovina	Europe
+13	#00B0F6	1997	73.244	Bosnia and Herzegovina	Europe
+13	#00B0F6	2002	74.09	Bosnia and Herzegovina	Europe
+13	#00B0F6	2007	74.852	Bosnia and Herzegovina	Europe
+14	#F8766D	1952	47.622	Botswana	Africa
+14	#F8766D	1957	49.618	Botswana	Africa
+14	#F8766D	1962	51.52	Botswana	Africa
+14	#F8766D	1967	53.298	Botswana	Africa
+14	#F8766D	1972	56.024	Botswana	Africa
+14	#F8766D	1977	59.319	Botswana	Africa
+14	#F8766D	1982	61.484	Botswana	Africa
+14	#F8766D	1987	63.622	Botswana	Africa
+14	#F8766D	1992	62.745	Botswana	Africa
+14	#F8766D	1997	52.556	Botswana	Africa
+14	#F8766D	2002	46.634	Botswana	Africa
+14	#F8766D	2007	50.728	Botswana	Africa
+15	#A3A500	1952	50.917	Brazil	Americas
+15	#A3A500	1957	53.285	Brazil	Americas
+15	#A3A500	1962	55.665	Brazil	Americas
+15	#A3A500	1967	57.632	Brazil	Americas
+15	#A3A500	1972	59.504	Brazil	Americas
+15	#A3A500	1977	61.489	Brazil	Americas
+15	#A3A500	1982	63.336	Brazil	Americas
+15	#A3A500	1987	65.205	Brazil	Americas
+15	#A3A500	1992	67.057	Brazil	Americas
+15	#A3A500	1997	69.388	Brazil	Americas
+15	#A3A500	2002	71.006	Brazil	Americas
+15	#A3A500	2007	72.39	Brazil	Americas
+16	#00B0F6	1952	59.6	Bulgaria	Europe
+16	#00B0F6	1957	66.61	Bulgaria	Europe
+16	#00B0F6	1962	69.51	Bulgaria	Europe
+16	#00B0F6	1967	70.42	Bulgaria	Europe
+16	#00B0F6	1972	70.9	Bulgaria	Europe
+16	#00B0F6	1977	70.81	Bulgaria	Europe
+16	#00B0F6	1982	71.08	Bulgaria	Europe
+16	#00B0F6	1987	71.34	Bulgaria	Europe
+16	#00B0F6	1992	71.19	Bulgaria	Europe
+16	#00B0F6	1997	70.32	Bulgaria	Europe
+16	#00B0F6	2002	72.14	Bulgaria	Europe
+16	#00B0F6	2007	73.005	Bulgaria	Europe
+17	#F8766D	1952	31.975	Burkina Faso	Africa
+17	#F8766D	1957	34.906	Burkina Faso	Africa
+17	#F8766D	1962	37.814	Burkina Faso	Africa
+17	#F8766D	1967	40.697	Burkina Faso	Africa
+17	#F8766D	1972	43.591	Burkina Faso	Africa
+17	#F8766D	1977	46.137	Burkina Faso	Africa
+17	#F8766D	1982	48.122	Burkina Faso	Africa
+17	#F8766D	1987	49.557	Burkina Faso	Africa
+17	#F8766D	1992	50.26	Burkina Faso	Africa
+17	#F8766D	1997	50.324	Burkina Faso	Africa
+17	#F8766D	2002	50.65	Burkina Faso	Africa
+17	#F8766D	2007	52.295	Burkina Faso	Africa
+18	#F8766D	1952	39.031	Burundi	Africa
+18	#F8766D	1957	40.533	Burundi	Africa
+18	#F8766D	1962	42.045	Burundi	Africa
+18	#F8766D	1967	43.548	Burundi	Africa
+18	#F8766D	1972	44.057	Burundi	Africa
+18	#F8766D	1977	45.91	Burundi	Africa
+18	#F8766D	1982	47.471	Burundi	Africa
+18	#F8766D	1987	48.211	Burundi	Africa
+18	#F8766D	1992	44.736	Burundi	Africa
+18	#F8766D	1997	45.326	Burundi	Africa
+18	#F8766D	2002	47.36	Burundi	Africa
+18	#F8766D	2007	49.58	Burundi	Africa
+19	#00BF7D	1952	39.417	Cambodia	Asia
+19	#00BF7D	1957	41.366	Cambodia	Asia
+19	#00BF7D	1962	43.415	Cambodia	Asia
+19	#00BF7D	1967	45.415	Cambodia	Asia
+19	#00BF7D	1972	40.317	Cambodia	Asia
+19	#00BF7D	1977	31.22	Cambodia	Asia
+19	#00BF7D	1982	50.957	Cambodia	Asia
+19	#00BF7D	1987	53.914	Cambodia	Asia
+19	#00BF7D	1992	55.803	Cambodia	Asia
+19	#00BF7D	1997	56.534	Cambodia	Asia
+19	#00BF7D	2002	56.752	Cambodia	Asia
+19	#00BF7D	2007	59.723	Cambodia	Asia
+20	#F8766D	1952	38.523	Cameroon	Africa
+20	#F8766D	1957	40.428	Cameroon	Africa
+20	#F8766D	1962	42.643	Cameroon	Africa
+20	#F8766D	1967	44.799	Cameroon	Africa
+20	#F8766D	1972	47.049	Cameroon	Africa
+20	#F8766D	1977	49.355	Cameroon	Africa
+20	#F8766D	1982	52.961	Cameroon	Africa
+20	#F8766D	1987	54.985	Cameroon	Africa
+20	#F8766D	1992	54.314	Cameroon	Africa
+20	#F8766D	1997	52.199	Cameroon	Africa
+20	#F8766D	2002	49.856	Cameroon	Africa
+20	#F8766D	2007	50.43	Cameroon	Africa
+21	#A3A500	1952	68.75	Canada	Americas
+21	#A3A500	1957	69.96	Canada	Americas
+21	#A3A500	1962	71.3	Canada	Americas
+21	#A3A500	1967	72.13	Canada	Americas
+21	#A3A500	1972	72.88	Canada	Americas
+21	#A3A500	1977	74.21	Canada	Americas
+21	#A3A500	1982	75.76	Canada	Americas
+21	#A3A500	1987	76.86	Canada	Americas
+21	#A3A500	1992	77.95	Canada	Americas
+21	#A3A500	1997	78.61	Canada	Americas
+21	#A3A500	2002	79.77	Canada	Americas
+21	#A3A500	2007	80.653	Canada	Americas
+22	#F8766D	1952	35.463	Central African Republic	Africa
+22	#F8766D	1957	37.464	Central African Republic	Africa
+22	#F8766D	1962	39.475	Central African Republic	Africa
+22	#F8766D	1967	41.478	Central African Republic	Africa
+22	#F8766D	1972	43.457	Central African Republic	Africa
+22	#F8766D	1977	46.775	Central African Republic	Africa
+22	#F8766D	1982	48.295	Central African Republic	Africa
+22	#F8766D	1987	50.485	Central African Republic	Africa
+22	#F8766D	1992	49.396	Central African Republic	Africa
+22	#F8766D	1997	46.066	Central African Republic	Africa
+22	#F8766D	2002	43.308	Central African Republic	Africa
+22	#F8766D	2007	44.741	Central African Republic	Africa
+23	#F8766D	1952	38.092	Chad	Africa
+23	#F8766D	1957	39.881	Chad	Africa
+23	#F8766D	1962	41.716	Chad	Africa
+23	#F8766D	1967	43.601	Chad	Africa
+23	#F8766D	1972	45.569	Chad	Africa
+23	#F8766D	1977	47.383	Chad	Africa
+23	#F8766D	1982	49.517	Chad	Africa
+23	#F8766D	1987	51.051	Chad	Africa
+23	#F8766D	1992	51.724	Chad	Africa
+23	#F8766D	1997	51.573	Chad	Africa
+23	#F8766D	2002	50.525	Chad	Africa
+23	#F8766D	2007	50.651	Chad	Africa
+24	#A3A500	1952	54.745	Chile	Americas
+24	#A3A500	1957	56.074	Chile	Americas
+24	#A3A500	1962	57.924	Chile	Americas
+24	#A3A500	1967	60.523	Chile	Americas
+24	#A3A500	1972	63.441	Chile	Americas
+24	#A3A500	1977	67.052	Chile	Americas
+24	#A3A500	1982	70.565	Chile	Americas
+24	#A3A500	1987	72.492	Chile	Americas
+24	#A3A500	1992	74.126	Chile	Americas
+24	#A3A500	1997	75.816	Chile	Americas
+24	#A3A500	2002	77.86	Chile	Americas
+24	#A3A500	2007	78.553	Chile	Americas
+25	#00BF7D	1952	44	China	Asia
+25	#00BF7D	1957	50.54896	China	Asia
+25	#00BF7D	1962	44.50136	China	Asia
+25	#00BF7D	1967	58.38112	China	Asia
+25	#00BF7D	1972	63.11888	China	Asia
+25	#00BF7D	1977	63.96736	China	Asia
+25	#00BF7D	1982	65.525	China	Asia
+25	#00BF7D	1987	67.274	China	Asia
+25	#00BF7D	1992	68.69	China	Asia
+25	#00BF7D	1997	70.426	China	Asia
+25	#00BF7D	2002	72.028	China	Asia
+25	#00BF7D	2007	72.961	China	Asia
+26	#A3A500	1952	50.643	Colombia	Americas
+26	#A3A500	1957	55.118	Colombia	Americas
+26	#A3A500	1962	57.863	Colombia	Americas
+26	#A3A500	1967	59.963	Colombia	Americas
+26	#A3A500	1972	61.623	Colombia	Americas
+26	#A3A500	1977	63.837	Colombia	Americas
+26	#A3A500	1982	66.653	Colombia	Americas
+26	#A3A500	1987	67.768	Colombia	Americas
+26	#A3A500	1992	68.421	Colombia	Americas
+26	#A3A500	1997	70.313	Colombia	Americas
+26	#A3A500	2002	71.682	Colombia	Americas
+26	#A3A500	2007	72.889	Colombia	Americas
+27	#F8766D	1952	40.715	Comoros	Africa
+27	#F8766D	1957	42.46	Comoros	Africa
+27	#F8766D	1962	44.467	Comoros	Africa
+27	#F8766D	1967	46.472	Comoros	Africa
+27	#F8766D	1972	48.944	Comoros	Africa
+27	#F8766D	1977	50.939	Comoros	Africa
+27	#F8766D	1982	52.933	Comoros	Africa
+27	#F8766D	1987	54.926	Comoros	Africa
+27	#F8766D	1992	57.939	Comoros	Africa
+27	#F8766D	1997	60.66	Comoros	Africa
+27	#F8766D	2002	62.974	Comoros	Africa
+27	#F8766D	2007	65.152	Comoros	Africa
+28	#F8766D	1952	39.143	Congo, Dem. Rep.	Africa
+28	#F8766D	1957	40.652	Congo, Dem. Rep.	Africa
+28	#F8766D	1962	42.122	Congo, Dem. Rep.	Africa
+28	#F8766D	1967	44.056	Congo, Dem. Rep.	Africa
+28	#F8766D	1972	45.989	Congo, Dem. Rep.	Africa
+28	#F8766D	1977	47.804	Congo, Dem. Rep.	Africa
+28	#F8766D	1982	47.784	Congo, Dem. Rep.	Africa
+28	#F8766D	1987	47.412	Congo, Dem. Rep.	Africa
+28	#F8766D	1992	45.548	Congo, Dem. Rep.	Africa
+28	#F8766D	1997	42.587	Congo, Dem. Rep.	Africa
+28	#F8766D	2002	44.966	Congo, Dem. Rep.	Africa
+28	#F8766D	2007	46.462	Congo, Dem. Rep.	Africa
+29	#F8766D	1952	42.111	Congo, Rep.	Africa
+29	#F8766D	1957	45.053	Congo, Rep.	Africa
+29	#F8766D	1962	48.435	Congo, Rep.	Africa
+29	#F8766D	1967	52.04	Congo, Rep.	Africa
+29	#F8766D	1972	54.907	Congo, Rep.	Africa
+29	#F8766D	1977	55.625	Congo, Rep.	Africa
+29	#F8766D	1982	56.695	Congo, Rep.	Africa
+29	#F8766D	1987	57.47	Congo, Rep.	Africa
+29	#F8766D	1992	56.433	Congo, Rep.	Africa
+29	#F8766D	1997	52.962	Congo, Rep.	Africa
+29	#F8766D	2002	52.97	Congo, Rep.	Africa
+29	#F8766D	2007	55.322	Congo, Rep.	Africa
+30	#A3A500	1952	57.206	Costa Rica	Americas
+30	#A3A500	1957	60.026	Costa Rica	Americas
+30	#A3A500	1962	62.842	Costa Rica	Americas
+30	#A3A500	1967	65.424	Costa Rica	Americas
+30	#A3A500	1972	67.849	Costa Rica	Americas
+30	#A3A500	1977	70.75	Costa Rica	Americas
+30	#A3A500	1982	73.45	Costa Rica	Americas
+30	#A3A500	1987	74.752	Costa Rica	Americas
+30	#A3A500	1992	75.713	Costa Rica	Americas
+30	#A3A500	1997	77.26	Costa Rica	Americas
+30	#A3A500	2002	78.123	Costa Rica	Americas
+30	#A3A500	2007	78.782	Costa Rica	Americas
+31	#F8766D	1952	40.477	Cote d'Ivoire	Africa
+31	#F8766D	1957	42.469	Cote d'Ivoire	Africa
+31	#F8766D	1962	44.93	Cote d'Ivoire	Africa
+31	#F8766D	1967	47.35	Cote d'Ivoire	Africa
+31	#F8766D	1972	49.801	Cote d'Ivoire	Africa
+31	#F8766D	1977	52.374	Cote d'Ivoire	Africa
+31	#F8766D	1982	53.983	Cote d'Ivoire	Africa
+31	#F8766D	1987	54.655	Cote d'Ivoire	Africa
+31	#F8766D	1992	52.044	Cote d'Ivoire	Africa
+31	#F8766D	1997	47.991	Cote d'Ivoire	Africa
+31	#F8766D	2002	46.832	Cote d'Ivoire	Africa
+31	#F8766D	2007	48.328	Cote d'Ivoire	Africa
+32	#00B0F6	1952	61.21	Croatia	Europe
+32	#00B0F6	1957	64.77	Croatia	Europe
+32	#00B0F6	1962	67.13	Croatia	Europe
+32	#00B0F6	1967	68.5	Croatia	Europe
+32	#00B0F6	1972	69.61	Croatia	Europe
+32	#00B0F6	1977	70.64	Croatia	Europe
+32	#00B0F6	1982	70.46	Croatia	Europe
+32	#00B0F6	1987	71.52	Croatia	Europe
+32	#00B0F6	1992	72.527	Croatia	Europe
+32	#00B0F6	1997	73.68	Croatia	Europe
+32	#00B0F6	2002	74.876	Croatia	Europe
+32	#00B0F6	2007	75.748	Croatia	Europe
+33	#A3A500	1952	59.421	Cuba	Americas
+33	#A3A500	1957	62.325	Cuba	Americas
+33	#A3A500	1962	65.246	Cuba	Americas
+33	#A3A500	1967	68.29	Cuba	Americas
+33	#A3A500	1972	70.723	Cuba	Americas
+33	#A3A500	1977	72.649	Cuba	Americas
+33	#A3A500	1982	73.717	Cuba	Americas
+33	#A3A500	1987	74.174	Cuba	Americas
+33	#A3A500	1992	74.414	Cuba	Americas
+33	#A3A500	1997	76.151	Cuba	Americas
+33	#A3A500	2002	77.158	Cuba	Americas
+33	#A3A500	2007	78.273	Cuba	Americas
+34	#00B0F6	1952	66.87	Czech Republic	Europe
+34	#00B0F6	1957	69.03	Czech Republic	Europe
+34	#00B0F6	1962	69.9	Czech Republic	Europe
+34	#00B0F6	1967	70.38	Czech Republic	Europe
+34	#00B0F6	1972	70.29	Czech Republic	Europe
+34	#00B0F6	1977	70.71	Czech Republic	Europe
+34	#00B0F6	1982	70.96	Czech Republic	Europe
+34	#00B0F6	1987	71.58	Czech Republic	Europe
+34	#00B0F6	1992	72.4	Czech Republic	Europe
+34	#00B0F6	1997	74.01	Czech Republic	Europe
+34	#00B0F6	2002	75.51	Czech Republic	Europe
+34	#00B0F6	2007	76.486	Czech Republic	Europe
+35	#00B0F6	1952	70.78	Denmark	Europe
+35	#00B0F6	1957	71.81	Denmark	Europe
+35	#00B0F6	1962	72.35	Denmark	Europe
+35	#00B0F6	1967	72.96	Denmark	Europe
+35	#00B0F6	1972	73.47	Denmark	Europe
+35	#00B0F6	1977	74.69	Denmark	Europe
+35	#00B0F6	1982	74.63	Denmark	Europe
+35	#00B0F6	1987	74.8	Denmark	Europe
+35	#00B0F6	1992	75.33	Denmark	Europe
+35	#00B0F6	1997	76.11	Denmark	Europe
+35	#00B0F6	2002	77.18	Denmark	Europe
+35	#00B0F6	2007	78.332	Denmark	Europe
+36	#F8766D	1952	34.812	Djibouti	Africa
+36	#F8766D	1957	37.328	Djibouti	Africa
+36	#F8766D	1962	39.693	Djibouti	Africa
+36	#F8766D	1967	42.074	Djibouti	Africa
+36	#F8766D	1972	44.366	Djibouti	Africa
+36	#F8766D	1977	46.519	Djibouti	Africa
+36	#F8766D	1982	48.812	Djibouti	Africa
+36	#F8766D	1987	50.04	Djibouti	Africa
+36	#F8766D	1992	51.604	Djibouti	Africa
+36	#F8766D	1997	53.157	Djibouti	Africa
+36	#F8766D	2002	53.373	Djibouti	Africa
+36	#F8766D	2007	54.791	Djibouti	Africa
+37	#A3A500	1952	45.928	Dominican Republic	Americas
+37	#A3A500	1957	49.828	Dominican Republic	Americas
+37	#A3A500	1962	53.459	Dominican Republic	Americas
+37	#A3A500	1967	56.751	Dominican Republic	Americas
+37	#A3A500	1972	59.631	Dominican Republic	Americas
+37	#A3A500	1977	61.788	Dominican Republic	Americas
+37	#A3A500	1982	63.727	Dominican Republic	Americas
+37	#A3A500	1987	66.046	Dominican Republic	Americas
+37	#A3A500	1992	68.457	Dominican Republic	Americas
+37	#A3A500	1997	69.957	Dominican Republic	Americas
+37	#A3A500	2002	70.847	Dominican Republic	Americas
+37	#A3A500	2007	72.235	Dominican Republic	Americas
+38	#A3A500	1952	48.357	Ecuador	Americas
+38	#A3A500	1957	51.356	Ecuador	Americas
+38	#A3A500	1962	54.64	Ecuador	Americas
+38	#A3A500	1967	56.678	Ecuador	Americas
+38	#A3A500	1972	58.796	Ecuador	Americas
+38	#A3A500	1977	61.31	Ecuador	Americas
+38	#A3A500	1982	64.342	Ecuador	Americas
+38	#A3A500	1987	67.231	Ecuador	Americas
+38	#A3A500	1992	69.613	Ecuador	Americas
+38	#A3A500	1997	72.312	Ecuador	Americas
+38	#A3A500	2002	74.173	Ecuador	Americas
+38	#A3A500	2007	74.994	Ecuador	Americas
+39	#F8766D	1952	41.893	Egypt	Africa
+39	#F8766D	1957	44.444	Egypt	Africa
+39	#F8766D	1962	46.992	Egypt	Africa
+39	#F8766D	1967	49.293	Egypt	Africa
+39	#F8766D	1972	51.137	Egypt	Africa
+39	#F8766D	1977	53.319	Egypt	Africa
+39	#F8766D	1982	56.006	Egypt	Africa
+39	#F8766D	1987	59.797	Egypt	Africa
+39	#F8766D	1992	63.674	Egypt	Africa
+39	#F8766D	1997	67.217	Egypt	Africa
+39	#F8766D	2002	69.806	Egypt	Africa
+39	#F8766D	2007	71.338	Egypt	Africa
+40	#A3A500	1952	45.262	El Salvador	Americas
+40	#A3A500	1957	48.57	El Salvador	Americas
+40	#A3A500	1962	52.307	El Salvador	Americas
+40	#A3A500	1967	55.855	El Salvador	Americas
+40	#A3A500	1972	58.207	El Salvador	Americas
+40	#A3A500	1977	56.696	El Salvador	Americas
+40	#A3A500	1982	56.604	El Salvador	Americas
+40	#A3A500	1987	63.154	El Salvador	Americas
+40	#A3A500	1992	66.798	El Salvador	Americas
+40	#A3A500	1997	69.535	El Salvador	Americas
+40	#A3A500	2002	70.734	El Salvador	Americas
+40	#A3A500	2007	71.878	El Salvador	Americas
+41	#F8766D	1952	34.482	Equatorial Guinea	Africa
+41	#F8766D	1957	35.983	Equatorial Guinea	Africa
+41	#F8766D	1962	37.485	Equatorial Guinea	Africa
+41	#F8766D	1967	38.987	Equatorial Guinea	Africa
+41	#F8766D	1972	40.516	Equatorial Guinea	Africa
+41	#F8766D	1977	42.024	Equatorial Guinea	Africa
+41	#F8766D	1982	43.662	Equatorial Guinea	Africa
+41	#F8766D	1987	45.664	Equatorial Guinea	Africa
+41	#F8766D	1992	47.545	Equatorial Guinea	Africa
+41	#F8766D	1997	48.245	Equatorial Guinea	Africa
+41	#F8766D	2002	49.348	Equatorial Guinea	Africa
+41	#F8766D	2007	51.579	Equatorial Guinea	Africa
+42	#F8766D	1952	35.928	Eritrea	Africa
+42	#F8766D	1957	38.047	Eritrea	Africa
+42	#F8766D	1962	40.158	Eritrea	Africa
+42	#F8766D	1967	42.189	Eritrea	Africa
+42	#F8766D	1972	44.142	Eritrea	Africa
+42	#F8766D	1977	44.535	Eritrea	Africa
+42	#F8766D	1982	43.89	Eritrea	Africa
+42	#F8766D	1987	46.453	Eritrea	Africa
+42	#F8766D	1992	49.991	Eritrea	Africa
+42	#F8766D	1997	53.378	Eritrea	Africa
+42	#F8766D	2002	55.24	Eritrea	Africa
+42	#F8766D	2007	58.04	Eritrea	Africa
+43	#F8766D	1952	34.078	Ethiopia	Africa
+43	#F8766D	1957	36.667	Ethiopia	Africa
+43	#F8766D	1962	40.059	Ethiopia	Africa
+43	#F8766D	1967	42.115	Ethiopia	Africa
+43	#F8766D	1972	43.515	Ethiopia	Africa
+43	#F8766D	1977	44.51	Ethiopia	Africa
+43	#F8766D	1982	44.916	Ethiopia	Africa
+43	#F8766D	1987	46.684	Ethiopia	Africa
+43	#F8766D	1992	48.091	Ethiopia	Africa
+43	#F8766D	1997	49.402	Ethiopia	Africa
+43	#F8766D	2002	50.725	Ethiopia	Africa
+43	#F8766D	2007	52.947	Ethiopia	Africa
+44	#00B0F6	1952	66.55	Finland	Europe
+44	#00B0F6	1957	67.49	Finland	Europe
+44	#00B0F6	1962	68.75	Finland	Europe
+44	#00B0F6	1967	69.83	Finland	Europe
+44	#00B0F6	1972	70.87	Finland	Europe
+44	#00B0F6	1977	72.52	Finland	Europe
+44	#00B0F6	1982	74.55	Finland	Europe
+44	#00B0F6	1987	74.83	Finland	Europe
+44	#00B0F6	1992	75.7	Finland	Europe
+44	#00B0F6	1997	77.13	Finland	Europe
+44	#00B0F6	2002	78.37	Finland	Europe
+44	#00B0F6	2007	79.313	Finland	Europe
+45	#00B0F6	1952	67.41	France	Europe
+45	#00B0F6	1957	68.93	France	Europe
+45	#00B0F6	1962	70.51	France	Europe
+45	#00B0F6	1967	71.55	France	Europe
+45	#00B0F6	1972	72.38	France	Europe
+45	#00B0F6	1977	73.83	France	Europe
+45	#00B0F6	1982	74.89	France	Europe
+45	#00B0F6	1987	76.34	France	Europe
+45	#00B0F6	1992	77.46	France	Europe
+45	#00B0F6	1997	78.64	France	Europe
+45	#00B0F6	2002	79.59	France	Europe
+45	#00B0F6	2007	80.657	France	Europe
+46	#F8766D	1952	37.003	Gabon	Africa
+46	#F8766D	1957	38.999	Gabon	Africa
+46	#F8766D	1962	40.489	Gabon	Africa
+46	#F8766D	1967	44.598	Gabon	Africa
+46	#F8766D	1972	48.69	Gabon	Africa
+46	#F8766D	1977	52.79	Gabon	Africa
+46	#F8766D	1982	56.564	Gabon	Africa
+46	#F8766D	1987	60.19	Gabon	Africa
+46	#F8766D	1992	61.366	Gabon	Africa
+46	#F8766D	1997	60.461	Gabon	Africa
+46	#F8766D	2002	56.761	Gabon	Africa
+46	#F8766D	2007	56.735	Gabon	Africa
+47	#F8766D	1952	30	Gambia	Africa
+47	#F8766D	1957	32.065	Gambia	Africa
+47	#F8766D	1962	33.896	Gambia	Africa
+47	#F8766D	1967	35.857	Gambia	Africa
+47	#F8766D	1972	38.308	Gambia	Africa
+47	#F8766D	1977	41.842	Gambia	Africa
+47	#F8766D	1982	45.58	Gambia	Africa
+47	#F8766D	1987	49.265	Gambia	Africa
+47	#F8766D	1992	52.644	Gambia	Africa
+47	#F8766D	1997	55.861	Gambia	Africa
+47	#F8766D	2002	58.041	Gambia	Africa
+47	#F8766D	2007	59.448	Gambia	Africa
+48	#00B0F6	1952	67.5	Germany	Europe
+48	#00B0F6	1957	69.1	Germany	Europe
+48	#00B0F6	1962	70.3	Germany	Europe
+48	#00B0F6	1967	70.8	Germany	Europe
+48	#00B0F6	1972	71	Germany	Europe
+48	#00B0F6	1977	72.5	Germany	Europe
+48	#00B0F6	1982	73.8	Germany	Europe
+48	#00B0F6	1987	74.847	Germany	Europe
+48	#00B0F6	1992	76.07	Germany	Europe
+48	#00B0F6	1997	77.34	Germany	Europe
+48	#00B0F6	2002	78.67	Germany	Europe
+48	#00B0F6	2007	79.406	Germany	Europe
+49	#F8766D	1952	43.149	Ghana	Africa
+49	#F8766D	1957	44.779	Ghana	Africa
+49	#F8766D	1962	46.452	Ghana	Africa
+49	#F8766D	1967	48.072	Ghana	Africa
+49	#F8766D	1972	49.875	Ghana	Africa
+49	#F8766D	1977	51.756	Ghana	Africa
+49	#F8766D	1982	53.744	Ghana	Africa
+49	#F8766D	1987	55.729	Ghana	Africa
+49	#F8766D	1992	57.501	Ghana	Africa
+49	#F8766D	1997	58.556	Ghana	Africa
+49	#F8766D	2002	58.453	Ghana	Africa
+49	#F8766D	2007	60.022	Ghana	Africa
+50	#00B0F6	1952	65.86	Greece	Europe
+50	#00B0F6	1957	67.86	Greece	Europe
+50	#00B0F6	1962	69.51	Greece	Europe
+50	#00B0F6	1967	71	Greece	Europe
+50	#00B0F6	1972	72.34	Greece	Europe
+50	#00B0F6	1977	73.68	Greece	Europe
+50	#00B0F6	1982	75.24	Greece	Europe
+50	#00B0F6	1987	76.67	Greece	Europe
+50	#00B0F6	1992	77.03	Greece	Europe
+50	#00B0F6	1997	77.869	Greece	Europe
+50	#00B0F6	2002	78.256	Greece	Europe
+50	#00B0F6	2007	79.483	Greece	Europe
+51	#A3A500	1952	42.023	Guatemala	Americas
+51	#A3A500	1957	44.142	Guatemala	Americas
+51	#A3A500	1962	46.954	Guatemala	Americas
+51	#A3A500	1967	50.016	Guatemala	Americas
+51	#A3A500	1972	53.738	Guatemala	Americas
+51	#A3A500	1977	56.029	Guatemala	Americas
+51	#A3A500	1982	58.137	Guatemala	Americas
+51	#A3A500	1987	60.782	Guatemala	Americas
+51	#A3A500	1992	63.373	Guatemala	Americas
+51	#A3A500	1997	66.322	Guatemala	Americas
+51	#A3A500	2002	68.978	Guatemala	Americas
+51	#A3A500	2007	70.259	Guatemala	Americas
+52	#F8766D	1952	33.609	Guinea	Africa
+52	#F8766D	1957	34.558	Guinea	Africa
+52	#F8766D	1962	35.753	Guinea	Africa
+52	#F8766D	1967	37.197	Guinea	Africa
+52	#F8766D	1972	38.842	Guinea	Africa
+52	#F8766D	1977	40.762	Guinea	Africa
+52	#F8766D	1982	42.891	Guinea	Africa
+52	#F8766D	1987	45.552	Guinea	Africa
+52	#F8766D	1992	48.576	Guinea	Africa
+52	#F8766D	1997	51.455	Guinea	Africa
+52	#F8766D	2002	53.676	Guinea	Africa
+52	#F8766D	2007	56.007	Guinea	Africa
+53	#F8766D	1952	32.5	Guinea-Bissau	Africa
+53	#F8766D	1957	33.489	Guinea-Bissau	Africa
+53	#F8766D	1962	34.488	Guinea-Bissau	Africa
+53	#F8766D	1967	35.492	Guinea-Bissau	Africa
+53	#F8766D	1972	36.486	Guinea-Bissau	Africa
+53	#F8766D	1977	37.465	Guinea-Bissau	Africa
+53	#F8766D	1982	39.327	Guinea-Bissau	Africa
+53	#F8766D	1987	41.245	Guinea-Bissau	Africa
+53	#F8766D	1992	43.266	Guinea-Bissau	Africa
+53	#F8766D	1997	44.873	Guinea-Bissau	Africa
+53	#F8766D	2002	45.504	Guinea-Bissau	Africa
+53	#F8766D	2007	46.388	Guinea-Bissau	Africa
+54	#A3A500	1952	37.579	Haiti	Americas
+54	#A3A500	1957	40.696	Haiti	Americas
+54	#A3A500	1962	43.59	Haiti	Americas
+54	#A3A500	1967	46.243	Haiti	Americas
+54	#A3A500	1972	48.042	Haiti	Americas
+54	#A3A500	1977	49.923	Haiti	Americas
+54	#A3A500	1982	51.461	Haiti	Americas
+54	#A3A500	1987	53.636	Haiti	Americas
+54	#A3A500	1992	55.089	Haiti	Americas
+54	#A3A500	1997	56.671	Haiti	Americas
+54	#A3A500	2002	58.137	Haiti	Americas
+54	#A3A500	2007	60.916	Haiti	Americas
+55	#A3A500	1952	41.912	Honduras	Americas
+55	#A3A500	1957	44.665	Honduras	Americas
+55	#A3A500	1962	48.041	Honduras	Americas
+55	#A3A500	1967	50.924	Honduras	Americas
+55	#A3A500	1972	53.884	Honduras	Americas
+55	#A3A500	1977	57.402	Honduras	Americas
+55	#A3A500	1982	60.909	Honduras	Americas
+55	#A3A500	1987	64.492	Honduras	Americas
+55	#A3A500	1992	66.399	Honduras	Americas
+55	#A3A500	1997	67.659	Honduras	Americas
+55	#A3A500	2002	68.565	Honduras	Americas
+55	#A3A500	2007	70.198	Honduras	Americas
+56	#00BF7D	1952	60.96	Hong Kong, China	Asia
+56	#00BF7D	1957	64.75	Hong Kong, China	Asia
+56	#00BF7D	1962	67.65	Hong Kong, China	Asia
+56	#00BF7D	1967	70	Hong Kong, China	Asia
+56	#00BF7D	1972	72	Hong Kong, China	Asia
+56	#00BF7D	1977	73.6	Hong Kong, China	Asia
+56	#00BF7D	1982	75.45	Hong Kong, China	Asia
+56	#00BF7D	1987	76.2	Hong Kong, China	Asia
+56	#00BF7D	1992	77.601	Hong Kong, China	Asia
+56	#00BF7D	1997	80	Hong Kong, China	Asia
+56	#00BF7D	2002	81.495	Hong Kong, China	Asia
+56	#00BF7D	2007	82.208	Hong Kong, China	Asia
+57	#00B0F6	1952	64.03	Hungary	Europe
+57	#00B0F6	1957	66.41	Hungary	Europe
+57	#00B0F6	1962	67.96	Hungary	Europe
+57	#00B0F6	1967	69.5	Hungary	Europe
+57	#00B0F6	1972	69.76	Hungary	Europe
+57	#00B0F6	1977	69.95	Hungary	Europe
+57	#00B0F6	1982	69.39	Hungary	Europe
+57	#00B0F6	1987	69.58	Hungary	Europe
+57	#00B0F6	1992	69.17	Hungary	Europe
+57	#00B0F6	1997	71.04	Hungary	Europe
+57	#00B0F6	2002	72.59	Hungary	Europe
+57	#00B0F6	2007	73.338	Hungary	Europe
+58	#00B0F6	1952	72.49	Iceland	Europe
+58	#00B0F6	1957	73.47	Iceland	Europe
+58	#00B0F6	1962	73.68	Iceland	Europe
+58	#00B0F6	1967	73.73	Iceland	Europe
+58	#00B0F6	1972	74.46	Iceland	Europe
+58	#00B0F6	1977	76.11	Iceland	Europe
+58	#00B0F6	1982	76.99	Iceland	Europe
+58	#00B0F6	1987	77.23	Iceland	Europe
+58	#00B0F6	1992	78.77	Iceland	Europe
+58	#00B0F6	1997	78.95	Iceland	Europe
+58	#00B0F6	2002	80.5	Iceland	Europe
+58	#00B0F6	2007	81.757	Iceland	Europe
+59	#00BF7D	1952	37.373	India	Asia
+59	#00BF7D	1957	40.249	India	Asia
+59	#00BF7D	1962	43.605	India	Asia
+59	#00BF7D	1967	47.193	India	Asia
+59	#00BF7D	1972	50.651	India	Asia
+59	#00BF7D	1977	54.208	India	Asia
+59	#00BF7D	1982	56.596	India	Asia
+59	#00BF7D	1987	58.553	India	Asia
+59	#00BF7D	1992	60.223	India	Asia
+59	#00BF7D	1997	61.765	India	Asia
+59	#00BF7D	2002	62.879	India	Asia
+59	#00BF7D	2007	64.698	India	Asia
+60	#00BF7D	1952	37.468	Indonesia	Asia
+60	#00BF7D	1957	39.918	Indonesia	Asia
+60	#00BF7D	1962	42.518	Indonesia	Asia
+60	#00BF7D	1967	45.964	Indonesia	Asia
+60	#00BF7D	1972	49.203	Indonesia	Asia
+60	#00BF7D	1977	52.702	Indonesia	Asia
+60	#00BF7D	1982	56.159	Indonesia	Asia
+60	#00BF7D	1987	60.137	Indonesia	Asia
+60	#00BF7D	1992	62.681	Indonesia	Asia
+60	#00BF7D	1997	66.041	Indonesia	Asia
+60	#00BF7D	2002	68.588	Indonesia	Asia
+60	#00BF7D	2007	70.65	Indonesia	Asia
+61	#00BF7D	1952	44.869	Iran	Asia
+61	#00BF7D	1957	47.181	Iran	Asia
+61	#00BF7D	1962	49.325	Iran	Asia
+61	#00BF7D	1967	52.469	Iran	Asia
+61	#00BF7D	1972	55.234	Iran	Asia
+61	#00BF7D	1977	57.702	Iran	Asia
+61	#00BF7D	1982	59.62	Iran	Asia
+61	#00BF7D	1987	63.04	Iran	Asia
+61	#00BF7D	1992	65.742	Iran	Asia
+61	#00BF7D	1997	68.042	Iran	Asia
+61	#00BF7D	2002	69.451	Iran	Asia
+61	#00BF7D	2007	70.964	Iran	Asia
+62	#00BF7D	1952	45.32	Iraq	Asia
+62	#00BF7D	1957	48.437	Iraq	Asia
+62	#00BF7D	1962	51.457	Iraq	Asia
+62	#00BF7D	1967	54.459	Iraq	Asia
+62	#00BF7D	1972	56.95	Iraq	Asia
+62	#00BF7D	1977	60.413	Iraq	Asia
+62	#00BF7D	1982	62.038	Iraq	Asia
+62	#00BF7D	1987	65.044	Iraq	Asia
+62	#00BF7D	1992	59.461	Iraq	Asia
+62	#00BF7D	1997	58.811	Iraq	Asia
+62	#00BF7D	2002	57.046	Iraq	Asia
+62	#00BF7D	2007	59.545	Iraq	Asia
+63	#00B0F6	1952	66.91	Ireland	Europe
+63	#00B0F6	1957	68.9	Ireland	Europe
+63	#00B0F6	1962	70.29	Ireland	Europe
+63	#00B0F6	1967	71.08	Ireland	Europe
+63	#00B0F6	1972	71.28	Ireland	Europe
+63	#00B0F6	1977	72.03	Ireland	Europe
+63	#00B0F6	1982	73.1	Ireland	Europe
+63	#00B0F6	1987	74.36	Ireland	Europe
+63	#00B0F6	1992	75.467	Ireland	Europe
+63	#00B0F6	1997	76.122	Ireland	Europe
+63	#00B0F6	2002	77.783	Ireland	Europe
+63	#00B0F6	2007	78.885	Ireland	Europe
+64	#00BF7D	1952	65.39	Israel	Asia
+64	#00BF7D	1957	67.84	Israel	Asia
+64	#00BF7D	1962	69.39	Israel	Asia
+64	#00BF7D	1967	70.75	Israel	Asia
+64	#00BF7D	1972	71.63	Israel	Asia
+64	#00BF7D	1977	73.06	Israel	Asia
+64	#00BF7D	1982	74.45	Israel	Asia
+64	#00BF7D	1987	75.6	Israel	Asia
+64	#00BF7D	1992	76.93	Israel	Asia
+64	#00BF7D	1997	78.269	Israel	Asia
+64	#00BF7D	2002	79.696	Israel	Asia
+64	#00BF7D	2007	80.745	Israel	Asia
+65	#00B0F6	1952	65.94	Italy	Europe
+65	#00B0F6	1957	67.81	Italy	Europe
+65	#00B0F6	1962	69.24	Italy	Europe
+65	#00B0F6	1967	71.06	Italy	Europe
+65	#00B0F6	1972	72.19	Italy	Europe
+65	#00B0F6	1977	73.48	Italy	Europe
+65	#00B0F6	1982	74.98	Italy	Europe
+65	#00B0F6	1987	76.42	Italy	Europe
+65	#00B0F6	1992	77.44	Italy	Europe
+65	#00B0F6	1997	78.82	Italy	Europe
+65	#00B0F6	2002	80.24	Italy	Europe
+65	#00B0F6	2007	80.546	Italy	Europe
+66	#A3A500	1952	58.53	Jamaica	Americas
+66	#A3A500	1957	62.61	Jamaica	Americas
+66	#A3A500	1962	65.61	Jamaica	Americas
+66	#A3A500	1967	67.51	Jamaica	Americas
+66	#A3A500	1972	69	Jamaica	Americas
+66	#A3A500	1977	70.11	Jamaica	Americas
+66	#A3A500	1982	71.21	Jamaica	Americas
+66	#A3A500	1987	71.77	Jamaica	Americas
+66	#A3A500	1992	71.766	Jamaica	Americas
+66	#A3A500	1997	72.262	Jamaica	Americas
+66	#A3A500	2002	72.047	Jamaica	Americas
+66	#A3A500	2007	72.567	Jamaica	Americas
+67	#00BF7D	1952	63.03	Japan	Asia
+67	#00BF7D	1957	65.5	Japan	Asia
+67	#00BF7D	1962	68.73	Japan	Asia
+67	#00BF7D	1967	71.43	Japan	Asia
+67	#00BF7D	1972	73.42	Japan	Asia
+67	#00BF7D	1977	75.38	Japan	Asia
+67	#00BF7D	1982	77.11	Japan	Asia
+67	#00BF7D	1987	78.67	Japan	Asia
+67	#00BF7D	1992	79.36	Japan	Asia
+67	#00BF7D	1997	80.69	Japan	Asia
+67	#00BF7D	2002	82	Japan	Asia
+67	#00BF7D	2007	82.603	Japan	Asia
+68	#00BF7D	1952	43.158	Jordan	Asia
+68	#00BF7D	1957	45.669	Jordan	Asia
+68	#00BF7D	1962	48.126	Jordan	Asia
+68	#00BF7D	1967	51.629	Jordan	Asia
+68	#00BF7D	1972	56.528	Jordan	Asia
+68	#00BF7D	1977	61.134	Jordan	Asia
+68	#00BF7D	1982	63.739	Jordan	Asia
+68	#00BF7D	1987	65.869	Jordan	Asia
+68	#00BF7D	1992	68.015	Jordan	Asia
+68	#00BF7D	1997	69.772	Jordan	Asia
+68	#00BF7D	2002	71.263	Jordan	Asia
+68	#00BF7D	2007	72.535	Jordan	Asia
+69	#F8766D	1952	42.27	Kenya	Africa
+69	#F8766D	1957	44.686	Kenya	Africa
+69	#F8766D	1962	47.949	Kenya	Africa
+69	#F8766D	1967	50.654	Kenya	Africa
+69	#F8766D	1972	53.559	Kenya	Africa
+69	#F8766D	1977	56.155	Kenya	Africa
+69	#F8766D	1982	58.766	Kenya	Africa
+69	#F8766D	1987	59.339	Kenya	Africa
+69	#F8766D	1992	59.285	Kenya	Africa
+69	#F8766D	1997	54.407	Kenya	Africa
+69	#F8766D	2002	50.992	Kenya	Africa
+69	#F8766D	2007	54.11	Kenya	Africa
+70	#00BF7D	1952	50.056	Korea, Dem. Rep.	Asia
+70	#00BF7D	1957	54.081	Korea, Dem. Rep.	Asia
+70	#00BF7D	1962	56.656	Korea, Dem. Rep.	Asia
+70	#00BF7D	1967	59.942	Korea, Dem. Rep.	Asia
+70	#00BF7D	1972	63.983	Korea, Dem. Rep.	Asia
+70	#00BF7D	1977	67.159	Korea, Dem. Rep.	Asia
+70	#00BF7D	1982	69.1	Korea, Dem. Rep.	Asia
+70	#00BF7D	1987	70.647	Korea, Dem. Rep.	Asia
+70	#00BF7D	1992	69.978	Korea, Dem. Rep.	Asia
+70	#00BF7D	1997	67.727	Korea, Dem. Rep.	Asia
+70	#00BF7D	2002	66.662	Korea, Dem. Rep.	Asia
+70	#00BF7D	2007	67.297	Korea, Dem. Rep.	Asia
+71	#00BF7D	1952	47.453	Korea, Rep.	Asia
+71	#00BF7D	1957	52.681	Korea, Rep.	Asia
+71	#00BF7D	1962	55.292	Korea, Rep.	Asia
+71	#00BF7D	1967	57.716	Korea, Rep.	Asia
+71	#00BF7D	1972	62.612	Korea, Rep.	Asia
+71	#00BF7D	1977	64.766	Korea, Rep.	Asia
+71	#00BF7D	1982	67.123	Korea, Rep.	Asia
+71	#00BF7D	1987	69.81	Korea, Rep.	Asia
+71	#00BF7D	1992	72.244	Korea, Rep.	Asia
+71	#00BF7D	1997	74.647	Korea, Rep.	Asia
+71	#00BF7D	2002	77.045	Korea, Rep.	Asia
+71	#00BF7D	2007	78.623	Korea, Rep.	Asia
+72	#00BF7D	1952	55.565	Kuwait	Asia
+72	#00BF7D	1957	58.033	Kuwait	Asia
+72	#00BF7D	1962	60.47	Kuwait	Asia
+72	#00BF7D	1967	64.624	Kuwait	Asia
+72	#00BF7D	1972	67.712	Kuwait	Asia
+72	#00BF7D	1977	69.343	Kuwait	Asia
+72	#00BF7D	1982	71.309	Kuwait	Asia
+72	#00BF7D	1987	74.174	Kuwait	Asia
+72	#00BF7D	1992	75.19	Kuwait	Asia
+72	#00BF7D	1997	76.156	Kuwait	Asia
+72	#00BF7D	2002	76.904	Kuwait	Asia
+72	#00BF7D	2007	77.588	Kuwait	Asia
+73	#00BF7D	1952	55.928	Lebanon	Asia
+73	#00BF7D	1957	59.489	Lebanon	Asia
+73	#00BF7D	1962	62.094	Lebanon	Asia
+73	#00BF7D	1967	63.87	Lebanon	Asia
+73	#00BF7D	1972	65.421	Lebanon	Asia
+73	#00BF7D	1977	66.099	Lebanon	Asia
+73	#00BF7D	1982	66.983	Lebanon	Asia
+73	#00BF7D	1987	67.926	Lebanon	Asia
+73	#00BF7D	1992	69.292	Lebanon	Asia
+73	#00BF7D	1997	70.265	Lebanon	Asia
+73	#00BF7D	2002	71.028	Lebanon	Asia
+73	#00BF7D	2007	71.993	Lebanon	Asia
+74	#F8766D	1952	42.138	Lesotho	Africa
+74	#F8766D	1957	45.047	Lesotho	Africa
+74	#F8766D	1962	47.747	Lesotho	Africa
+74	#F8766D	1967	48.492	Lesotho	Africa
+74	#F8766D	1972	49.767	Lesotho	Africa
+74	#F8766D	1977	52.208	Lesotho	Africa
+74	#F8766D	1982	55.078	Lesotho	Africa
+74	#F8766D	1987	57.18	Lesotho	Africa
+74	#F8766D	1992	59.685	Lesotho	Africa
+74	#F8766D	1997	55.558	Lesotho	Africa
+74	#F8766D	2002	44.593	Lesotho	Africa
+74	#F8766D	2007	42.592	Lesotho	Africa
+75	#F8766D	1952	38.48	Liberia	Africa
+75	#F8766D	1957	39.486	Liberia	Africa
+75	#F8766D	1962	40.502	Liberia	Africa
+75	#F8766D	1967	41.536	Liberia	Africa
+75	#F8766D	1972	42.614	Liberia	Africa
+75	#F8766D	1977	43.764	Liberia	Africa
+75	#F8766D	1982	44.852	Liberia	Africa
+75	#F8766D	1987	46.027	Liberia	Africa
+75	#F8766D	1992	40.802	Liberia	Africa
+75	#F8766D	1997	42.221	Liberia	Africa
+75	#F8766D	2002	43.753	Liberia	Africa
+75	#F8766D	2007	45.678	Liberia	Africa
+76	#F8766D	1952	42.723	Libya	Africa
+76	#F8766D	1957	45.289	Libya	Africa
+76	#F8766D	1962	47.808	Libya	Africa
+76	#F8766D	1967	50.227	Libya	Africa
+76	#F8766D	1972	52.773	Libya	Africa
+76	#F8766D	1977	57.442	Libya	Africa
+76	#F8766D	1982	62.155	Libya	Africa
+76	#F8766D	1987	66.234	Libya	Africa
+76	#F8766D	1992	68.755	Libya	Africa
+76	#F8766D	1997	71.555	Libya	Africa
+76	#F8766D	2002	72.737	Libya	Africa
+76	#F8766D	2007	73.952	Libya	Africa
+77	#F8766D	1952	36.681	Madagascar	Africa
+77	#F8766D	1957	38.865	Madagascar	Africa
+77	#F8766D	1962	40.848	Madagascar	Africa
+77	#F8766D	1967	42.881	Madagascar	Africa
+77	#F8766D	1972	44.851	Madagascar	Africa
+77	#F8766D	1977	46.881	Madagascar	Africa
+77	#F8766D	1982	48.969	Madagascar	Africa
+77	#F8766D	1987	49.35	Madagascar	Africa
+77	#F8766D	1992	52.214	Madagascar	Africa
+77	#F8766D	1997	54.978	Madagascar	Africa
+77	#F8766D	2002	57.286	Madagascar	Africa
+77	#F8766D	2007	59.443	Madagascar	Africa
+78	#F8766D	1952	36.256	Malawi	Africa
+78	#F8766D	1957	37.207	Malawi	Africa
+78	#F8766D	1962	38.41	Malawi	Africa
+78	#F8766D	1967	39.487	Malawi	Africa
+78	#F8766D	1972	41.766	Malawi	Africa
+78	#F8766D	1977	43.767	Malawi	Africa
+78	#F8766D	1982	45.642	Malawi	Africa
+78	#F8766D	1987	47.457	Malawi	Africa
+78	#F8766D	1992	49.42	Malawi	Africa
+78	#F8766D	1997	47.495	Malawi	Africa
+78	#F8766D	2002	45.009	Malawi	Africa
+78	#F8766D	2007	48.303	Malawi	Africa
+79	#00BF7D	1952	48.463	Malaysia	Asia
+79	#00BF7D	1957	52.102	Malaysia	Asia
+79	#00BF7D	1962	55.737	Malaysia	Asia
+79	#00BF7D	1967	59.371	Malaysia	Asia
+79	#00BF7D	1972	63.01	Malaysia	Asia
+79	#00BF7D	1977	65.256	Malaysia	Asia
+79	#00BF7D	1982	68	Malaysia	Asia
+79	#00BF7D	1987	69.5	Malaysia	Asia
+79	#00BF7D	1992	70.693	Malaysia	Asia
+79	#00BF7D	1997	71.938	Malaysia	Asia
+79	#00BF7D	2002	73.044	Malaysia	Asia
+79	#00BF7D	2007	74.241	Malaysia	Asia
+80	#F8766D	1952	33.685	Mali	Africa
+80	#F8766D	1957	35.307	Mali	Africa
+80	#F8766D	1962	36.936	Mali	Africa
+80	#F8766D	1967	38.487	Mali	Africa
+80	#F8766D	1972	39.977	Mali	Africa
+80	#F8766D	1977	41.714	Mali	Africa
+80	#F8766D	1982	43.916	Mali	Africa
+80	#F8766D	1987	46.364	Mali	Africa
+80	#F8766D	1992	48.388	Mali	Africa
+80	#F8766D	1997	49.903	Mali	Africa
+80	#F8766D	2002	51.818	Mali	Africa
+80	#F8766D	2007	54.467	Mali	Africa
+81	#F8766D	1952	40.543	Mauritania	Africa
+81	#F8766D	1957	42.338	Mauritania	Africa
+81	#F8766D	1962	44.248	Mauritania	Africa
+81	#F8766D	1967	46.289	Mauritania	Africa
+81	#F8766D	1972	48.437	Mauritania	Africa
+81	#F8766D	1977	50.852	Mauritania	Africa
+81	#F8766D	1982	53.599	Mauritania	Africa
+81	#F8766D	1987	56.145	Mauritania	Africa
+81	#F8766D	1992	58.333	Mauritania	Africa
+81	#F8766D	1997	60.43	Mauritania	Africa
+81	#F8766D	2002	62.247	Mauritania	Africa
+81	#F8766D	2007	64.164	Mauritania	Africa
+82	#F8766D	1952	50.986	Mauritius	Africa
+82	#F8766D	1957	58.089	Mauritius	Africa
+82	#F8766D	1962	60.246	Mauritius	Africa
+82	#F8766D	1967	61.557	Mauritius	Africa
+82	#F8766D	1972	62.944	Mauritius	Africa
+82	#F8766D	1977	64.93	Mauritius	Africa
+82	#F8766D	1982	66.711	Mauritius	Africa
+82	#F8766D	1987	68.74	Mauritius	Africa
+82	#F8766D	1992	69.745	Mauritius	Africa
+82	#F8766D	1997	70.736	Mauritius	Africa
+82	#F8766D	2002	71.954	Mauritius	Africa
+82	#F8766D	2007	72.801	Mauritius	Africa
+83	#A3A500	1952	50.789	Mexico	Americas
+83	#A3A500	1957	55.19	Mexico	Americas
+83	#A3A500	1962	58.299	Mexico	Americas
+83	#A3A500	1967	60.11	Mexico	Americas
+83	#A3A500	1972	62.361	Mexico	Americas
+83	#A3A500	1977	65.032	Mexico	Americas
+83	#A3A500	1982	67.405	Mexico	Americas
+83	#A3A500	1987	69.498	Mexico	Americas
+83	#A3A500	1992	71.455	Mexico	Americas
+83	#A3A500	1997	73.67	Mexico	Americas
+83	#A3A500	2002	74.902	Mexico	Americas
+83	#A3A500	2007	76.195	Mexico	Americas
+84	#00BF7D	1952	42.244	Mongolia	Asia
+84	#00BF7D	1957	45.248	Mongolia	Asia
+84	#00BF7D	1962	48.251	Mongolia	Asia
+84	#00BF7D	1967	51.253	Mongolia	Asia
+84	#00BF7D	1972	53.754	Mongolia	Asia
+84	#00BF7D	1977	55.491	Mongolia	Asia
+84	#00BF7D	1982	57.489	Mongolia	Asia
+84	#00BF7D	1987	60.222	Mongolia	Asia
+84	#00BF7D	1992	61.271	Mongolia	Asia
+84	#00BF7D	1997	63.625	Mongolia	Asia
+84	#00BF7D	2002	65.033	Mongolia	Asia
+84	#00BF7D	2007	66.803	Mongolia	Asia
+85	#00B0F6	1952	59.164	Montenegro	Europe
+85	#00B0F6	1957	61.448	Montenegro	Europe
+85	#00B0F6	1962	63.728	Montenegro	Europe
+85	#00B0F6	1967	67.178	Montenegro	Europe
+85	#00B0F6	1972	70.636	Montenegro	Europe
+85	#00B0F6	1977	73.066	Montenegro	Europe
+85	#00B0F6	1982	74.101	Montenegro	Europe
+85	#00B0F6	1987	74.865	Montenegro	Europe
+85	#00B0F6	1992	75.435	Montenegro	Europe
+85	#00B0F6	1997	75.445	Montenegro	Europe
+85	#00B0F6	2002	73.981	Montenegro	Europe
+85	#00B0F6	2007	74.543	Montenegro	Europe
+86	#F8766D	1952	42.873	Morocco	Africa
+86	#F8766D	1957	45.423	Morocco	Africa
+86	#F8766D	1962	47.924	Morocco	Africa
+86	#F8766D	1967	50.335	Morocco	Africa
+86	#F8766D	1972	52.862	Morocco	Africa
+86	#F8766D	1977	55.73	Morocco	Africa
+86	#F8766D	1982	59.65	Morocco	Africa
+86	#F8766D	1987	62.677	Morocco	Africa
+86	#F8766D	1992	65.393	Morocco	Africa
+86	#F8766D	1997	67.66	Morocco	Africa
+86	#F8766D	2002	69.615	Morocco	Africa
+86	#F8766D	2007	71.164	Morocco	Africa
+87	#F8766D	1952	31.286	Mozambique	Africa
+87	#F8766D	1957	33.779	Mozambique	Africa
+87	#F8766D	1962	36.161	Mozambique	Africa
+87	#F8766D	1967	38.113	Mozambique	Africa
+87	#F8766D	1972	40.328	Mozambique	Africa
+87	#F8766D	1977	42.495	Mozambique	Africa
+87	#F8766D	1982	42.795	Mozambique	Africa
+87	#F8766D	1987	42.861	Mozambique	Africa
+87	#F8766D	1992	44.284	Mozambique	Africa
+87	#F8766D	1997	46.344	Mozambique	Africa
+87	#F8766D	2002	44.026	Mozambique	Africa
+87	#F8766D	2007	42.082	Mozambique	Africa
+88	#00BF7D	1952	36.319	Myanmar	Asia
+88	#00BF7D	1957	41.905	Myanmar	Asia
+88	#00BF7D	1962	45.108	Myanmar	Asia
+88	#00BF7D	1967	49.379	Myanmar	Asia
+88	#00BF7D	1972	53.07	Myanmar	Asia
+88	#00BF7D	1977	56.059	Myanmar	Asia
+88	#00BF7D	1982	58.056	Myanmar	Asia
+88	#00BF7D	1987	58.339	Myanmar	Asia
+88	#00BF7D	1992	59.32	Myanmar	Asia
+88	#00BF7D	1997	60.328	Myanmar	Asia
+88	#00BF7D	2002	59.908	Myanmar	Asia
+88	#00BF7D	2007	62.069	Myanmar	Asia
+89	#F8766D	1952	41.725	Namibia	Africa
+89	#F8766D	1957	45.226	Namibia	Africa
+89	#F8766D	1962	48.386	Namibia	Africa
+89	#F8766D	1967	51.159	Namibia	Africa
+89	#F8766D	1972	53.867	Namibia	Africa
+89	#F8766D	1977	56.437	Namibia	Africa
+89	#F8766D	1982	58.968	Namibia	Africa
+89	#F8766D	1987	60.835	Namibia	Africa
+89	#F8766D	1992	61.999	Namibia	Africa
+89	#F8766D	1997	58.909	Namibia	Africa
+89	#F8766D	2002	51.479	Namibia	Africa
+89	#F8766D	2007	52.906	Namibia	Africa
+90	#00BF7D	1952	36.157	Nepal	Asia
+90	#00BF7D	1957	37.686	Nepal	Asia
+90	#00BF7D	1962	39.393	Nepal	Asia
+90	#00BF7D	1967	41.472	Nepal	Asia
+90	#00BF7D	1972	43.971	Nepal	Asia
+90	#00BF7D	1977	46.748	Nepal	Asia
+90	#00BF7D	1982	49.594	Nepal	Asia
+90	#00BF7D	1987	52.537	Nepal	Asia
+90	#00BF7D	1992	55.727	Nepal	Asia
+90	#00BF7D	1997	59.426	Nepal	Asia
+90	#00BF7D	2002	61.34	Nepal	Asia
+90	#00BF7D	2007	63.785	Nepal	Asia
+91	#00B0F6	1952	72.13	Netherlands	Europe
+91	#00B0F6	1957	72.99	Netherlands	Europe
+91	#00B0F6	1962	73.23	Netherlands	Europe
+91	#00B0F6	1967	73.82	Netherlands	Europe
+91	#00B0F6	1972	73.75	Netherlands	Europe
+91	#00B0F6	1977	75.24	Netherlands	Europe
+91	#00B0F6	1982	76.05	Netherlands	Europe
+91	#00B0F6	1987	76.83	Netherlands	Europe
+91	#00B0F6	1992	77.42	Netherlands	Europe
+91	#00B0F6	1997	78.03	Netherlands	Europe
+91	#00B0F6	2002	78.53	Netherlands	Europe
+91	#00B0F6	2007	79.762	Netherlands	Europe
+92	#E76BF3	1952	69.39	New Zealand	Oceania
+92	#E76BF3	1957	70.26	New Zealand	Oceania
+92	#E76BF3	1962	71.24	New Zealand	Oceania
+92	#E76BF3	1967	71.52	New Zealand	Oceania
+92	#E76BF3	1972	71.89	New Zealand	Oceania
+92	#E76BF3	1977	72.22	New Zealand	Oceania
+92	#E76BF3	1982	73.84	New Zealand	Oceania
+92	#E76BF3	1987	74.32	New Zealand	Oceania
+92	#E76BF3	1992	76.33	New Zealand	Oceania
+92	#E76BF3	1997	77.55	New Zealand	Oceania
+92	#E76BF3	2002	79.11	New Zealand	Oceania
+92	#E76BF3	2007	80.204	New Zealand	Oceania
+93	#A3A500	1952	42.314	Nicaragua	Americas
+93	#A3A500	1957	45.432	Nicaragua	Americas
+93	#A3A500	1962	48.632	Nicaragua	Americas
+93	#A3A500	1967	51.884	Nicaragua	Americas
+93	#A3A500	1972	55.151	Nicaragua	Americas
+93	#A3A500	1977	57.47	Nicaragua	Americas
+93	#A3A500	1982	59.298	Nicaragua	Americas
+93	#A3A500	1987	62.008	Nicaragua	Americas
+93	#A3A500	1992	65.843	Nicaragua	Americas
+93	#A3A500	1997	68.426	Nicaragua	Americas
+93	#A3A500	2002	70.836	Nicaragua	Americas
+93	#A3A500	2007	72.899	Nicaragua	Americas
+94	#F8766D	1952	37.444	Niger	Africa
+94	#F8766D	1957	38.598	Niger	Africa
+94	#F8766D	1962	39.487	Niger	Africa
+94	#F8766D	1967	40.118	Niger	Africa
+94	#F8766D	1972	40.546	Niger	Africa
+94	#F8766D	1977	41.291	Niger	Africa
+94	#F8766D	1982	42.598	Niger	Africa
+94	#F8766D	1987	44.555	Niger	Africa
+94	#F8766D	1992	47.391	Niger	Africa
+94	#F8766D	1997	51.313	Niger	Africa
+94	#F8766D	2002	54.496	Niger	Africa
+94	#F8766D	2007	56.867	Niger	Africa
+95	#F8766D	1952	36.324	Nigeria	Africa
+95	#F8766D	1957	37.802	Nigeria	Africa
+95	#F8766D	1962	39.36	Nigeria	Africa
+95	#F8766D	1967	41.04	Nigeria	Africa
+95	#F8766D	1972	42.821	Nigeria	Africa
+95	#F8766D	1977	44.514	Nigeria	Africa
+95	#F8766D	1982	45.826	Nigeria	Africa
+95	#F8766D	1987	46.886	Nigeria	Africa
+95	#F8766D	1992	47.472	Nigeria	Africa
+95	#F8766D	1997	47.464	Nigeria	Africa
+95	#F8766D	2002	46.608	Nigeria	Africa
+95	#F8766D	2007	46.859	Nigeria	Africa
+96	#00B0F6	1952	72.67	Norway	Europe
+96	#00B0F6	1957	73.44	Norway	Europe
+96	#00B0F6	1962	73.47	Norway	Europe
+96	#00B0F6	1967	74.08	Norway	Europe
+96	#00B0F6	1972	74.34	Norway	Europe
+96	#00B0F6	1977	75.37	Norway	Europe
+96	#00B0F6	1982	75.97	Norway	Europe
+96	#00B0F6	1987	75.89	Norway	Europe
+96	#00B0F6	1992	77.32	Norway	Europe
+96	#00B0F6	1997	78.32	Norway	Europe
+96	#00B0F6	2002	79.05	Norway	Europe
+96	#00B0F6	2007	80.196	Norway	Europe
+97	#00BF7D	1952	37.578	Oman	Asia
+97	#00BF7D	1957	40.08	Oman	Asia
+97	#00BF7D	1962	43.165	Oman	Asia
+97	#00BF7D	1967	46.988	Oman	Asia
+97	#00BF7D	1972	52.143	Oman	Asia
+97	#00BF7D	1977	57.367	Oman	Asia
+97	#00BF7D	1982	62.728	Oman	Asia
+97	#00BF7D	1987	67.734	Oman	Asia
+97	#00BF7D	1992	71.197	Oman	Asia
+97	#00BF7D	1997	72.499	Oman	Asia
+97	#00BF7D	2002	74.193	Oman	Asia
+97	#00BF7D	2007	75.64	Oman	Asia
+98	#00BF7D	1952	43.436	Pakistan	Asia
+98	#00BF7D	1957	45.557	Pakistan	Asia
+98	#00BF7D	1962	47.67	Pakistan	Asia
+98	#00BF7D	1967	49.8	Pakistan	Asia
+98	#00BF7D	1972	51.929	Pakistan	Asia
+98	#00BF7D	1977	54.043	Pakistan	Asia
+98	#00BF7D	1982	56.158	Pakistan	Asia
+98	#00BF7D	1987	58.245	Pakistan	Asia
+98	#00BF7D	1992	60.838	Pakistan	Asia
+98	#00BF7D	1997	61.818	Pakistan	Asia
+98	#00BF7D	2002	63.61	Pakistan	Asia
+98	#00BF7D	2007	65.483	Pakistan	Asia
+99	#A3A500	1952	55.191	Panama	Americas
+99	#A3A500	1957	59.201	Panama	Americas
+99	#A3A500	1962	61.817	Panama	Americas
+99	#A3A500	1967	64.071	Panama	Americas
+99	#A3A500	1972	66.216	Panama	Americas
+99	#A3A500	1977	68.681	Panama	Americas
+99	#A3A500	1982	70.472	Panama	Americas
+99	#A3A500	1987	71.523	Panama	Americas
+99	#A3A500	1992	72.462	Panama	Americas
+99	#A3A500	1997	73.738	Panama	Americas
+99	#A3A500	2002	74.712	Panama	Americas
+99	#A3A500	2007	75.537	Panama	Americas
+100	#A3A500	1952	62.649	Paraguay	Americas
+100	#A3A500	1957	63.196	Paraguay	Americas
+100	#A3A500	1962	64.361	Paraguay	Americas
+100	#A3A500	1967	64.951	Paraguay	Americas
+100	#A3A500	1972	65.815	Paraguay	Americas
+100	#A3A500	1977	66.353	Paraguay	Americas
+100	#A3A500	1982	66.874	Paraguay	Americas
+100	#A3A500	1987	67.378	Paraguay	Americas
+100	#A3A500	1992	68.225	Paraguay	Americas
+100	#A3A500	1997	69.4	Paraguay	Americas
+100	#A3A500	2002	70.755	Paraguay	Americas
+100	#A3A500	2007	71.752	Paraguay	Americas
+101	#A3A500	1952	43.902	Peru	Americas
+101	#A3A500	1957	46.263	Peru	Americas
+101	#A3A500	1962	49.096	Peru	Americas
+101	#A3A500	1967	51.445	Peru	Americas
+101	#A3A500	1972	55.448	Peru	Americas
+101	#A3A500	1977	58.447	Peru	Americas
+101	#A3A500	1982	61.406	Peru	Americas
+101	#A3A500	1987	64.134	Peru	Americas
+101	#A3A500	1992	66.458	Peru	Americas
+101	#A3A500	1997	68.386	Peru	Americas
+101	#A3A500	2002	69.906	Peru	Americas
+101	#A3A500	2007	71.421	Peru	Americas
+102	#00BF7D	1952	47.752	Philippines	Asia
+102	#00BF7D	1957	51.334	Philippines	Asia
+102	#00BF7D	1962	54.757	Philippines	Asia
+102	#00BF7D	1967	56.393	Philippines	Asia
+102	#00BF7D	1972	58.065	Philippines	Asia
+102	#00BF7D	1977	60.06	Philippines	Asia
+102	#00BF7D	1982	62.082	Philippines	Asia
+102	#00BF7D	1987	64.151	Philippines	Asia
+102	#00BF7D	1992	66.458	Philippines	Asia
+102	#00BF7D	1997	68.564	Philippines	Asia
+102	#00BF7D	2002	70.303	Philippines	Asia
+102	#00BF7D	2007	71.688	Philippines	Asia
+103	#00B0F6	1952	61.31	Poland	Europe
+103	#00B0F6	1957	65.77	Poland	Europe
+103	#00B0F6	1962	67.64	Poland	Europe
+103	#00B0F6	1967	69.61	Poland	Europe
+103	#00B0F6	1972	70.85	Poland	Europe
+103	#00B0F6	1977	70.67	Poland	Europe
+103	#00B0F6	1982	71.32	Poland	Europe
+103	#00B0F6	1987	70.98	Poland	Europe
+103	#00B0F6	1992	70.99	Poland	Europe
+103	#00B0F6	1997	72.75	Poland	Europe
+103	#00B0F6	2002	74.67	Poland	Europe
+103	#00B0F6	2007	75.563	Poland	Europe
+104	#00B0F6	1952	59.82	Portugal	Europe
+104	#00B0F6	1957	61.51	Portugal	Europe
+104	#00B0F6	1962	64.39	Portugal	Europe
+104	#00B0F6	1967	66.6	Portugal	Europe
+104	#00B0F6	1972	69.26	Portugal	Europe
+104	#00B0F6	1977	70.41	Portugal	Europe
+104	#00B0F6	1982	72.77	Portugal	Europe
+104	#00B0F6	1987	74.06	Portugal	Europe
+104	#00B0F6	1992	74.86	Portugal	Europe
+104	#00B0F6	1997	75.97	Portugal	Europe
+104	#00B0F6	2002	77.29	Portugal	Europe
+104	#00B0F6	2007	78.098	Portugal	Europe
+105	#A3A500	1952	64.28	Puerto Rico	Americas
+105	#A3A500	1957	68.54	Puerto Rico	Americas
+105	#A3A500	1962	69.62	Puerto Rico	Americas
+105	#A3A500	1967	71.1	Puerto Rico	Americas
+105	#A3A500	1972	72.16	Puerto Rico	Americas
+105	#A3A500	1977	73.44	Puerto Rico	Americas
+105	#A3A500	1982	73.75	Puerto Rico	Americas
+105	#A3A500	1987	74.63	Puerto Rico	Americas
+105	#A3A500	1992	73.911	Puerto Rico	Americas
+105	#A3A500	1997	74.917	Puerto Rico	Americas
+105	#A3A500	2002	77.778	Puerto Rico	Americas
+105	#A3A500	2007	78.746	Puerto Rico	Americas
+106	#F8766D	1952	52.724	Reunion	Africa
+106	#F8766D	1957	55.09	Reunion	Africa
+106	#F8766D	1962	57.666	Reunion	Africa
+106	#F8766D	1967	60.542	Reunion	Africa
+106	#F8766D	1972	64.274	Reunion	Africa
+106	#F8766D	1977	67.064	Reunion	Africa
+106	#F8766D	1982	69.885	Reunion	Africa
+106	#F8766D	1987	71.913	Reunion	Africa
+106	#F8766D	1992	73.615	Reunion	Africa
+106	#F8766D	1997	74.772	Reunion	Africa
+106	#F8766D	2002	75.744	Reunion	Africa
+106	#F8766D	2007	76.442	Reunion	Africa
+107	#00B0F6	1952	61.05	Romania	Europe
+107	#00B0F6	1957	64.1	Romania	Europe
+107	#00B0F6	1962	66.8	Romania	Europe
+107	#00B0F6	1967	66.8	Romania	Europe
+107	#00B0F6	1972	69.21	Romania	Europe
+107	#00B0F6	1977	69.46	Romania	Europe
+107	#00B0F6	1982	69.66	Romania	Europe
+107	#00B0F6	1987	69.53	Romania	Europe
+107	#00B0F6	1992	69.36	Romania	Europe
+107	#00B0F6	1997	69.72	Romania	Europe
+107	#00B0F6	2002	71.322	Romania	Europe
+107	#00B0F6	2007	72.476	Romania	Europe
+108	#F8766D	1952	40	Rwanda	Africa
+108	#F8766D	1957	41.5	Rwanda	Africa
+108	#F8766D	1962	43	Rwanda	Africa
+108	#F8766D	1967	44.1	Rwanda	Africa
+108	#F8766D	1972	44.6	Rwanda	Africa
+108	#F8766D	1977	45	Rwanda	Africa
+108	#F8766D	1982	46.218	Rwanda	Africa
+108	#F8766D	1987	44.02	Rwanda	Africa
+108	#F8766D	1992	23.599	Rwanda	Africa
+108	#F8766D	1997	36.087	Rwanda	Africa
+108	#F8766D	2002	43.413	Rwanda	Africa
+108	#F8766D	2007	46.242	Rwanda	Africa
+109	#F8766D	1952	46.471	Sao Tome and Principe	Africa
+109	#F8766D	1957	48.945	Sao Tome and Principe	Africa
+109	#F8766D	1962	51.893	Sao Tome and Principe	Africa
+109	#F8766D	1967	54.425	Sao Tome and Principe	Africa
+109	#F8766D	1972	56.48	Sao Tome and Principe	Africa
+109	#F8766D	1977	58.55	Sao Tome and Principe	Africa
+109	#F8766D	1982	60.351	Sao Tome and Principe	Africa
+109	#F8766D	1987	61.728	Sao Tome and Principe	Africa
+109	#F8766D	1992	62.742	Sao Tome and Principe	Africa
+109	#F8766D	1997	63.306	Sao Tome and Principe	Africa
+109	#F8766D	2002	64.337	Sao Tome and Principe	Africa
+109	#F8766D	2007	65.528	Sao Tome and Principe	Africa
+110	#00BF7D	1952	39.875	Saudi Arabia	Asia
+110	#00BF7D	1957	42.868	Saudi Arabia	Asia
+110	#00BF7D	1962	45.914	Saudi Arabia	Asia
+110	#00BF7D	1967	49.901	Saudi Arabia	Asia
+110	#00BF7D	1972	53.886	Saudi Arabia	Asia
+110	#00BF7D	1977	58.69	Saudi Arabia	Asia
+110	#00BF7D	1982	63.012	Saudi Arabia	Asia
+110	#00BF7D	1987	66.295	Saudi Arabia	Asia
+110	#00BF7D	1992	68.768	Saudi Arabia	Asia
+110	#00BF7D	1997	70.533	Saudi Arabia	Asia
+110	#00BF7D	2002	71.626	Saudi Arabia	Asia
+110	#00BF7D	2007	72.777	Saudi Arabia	Asia
+111	#F8766D	1952	37.278	Senegal	Africa
+111	#F8766D	1957	39.329	Senegal	Africa
+111	#F8766D	1962	41.454	Senegal	Africa
+111	#F8766D	1967	43.563	Senegal	Africa
+111	#F8766D	1972	45.815	Senegal	Africa
+111	#F8766D	1977	48.879	Senegal	Africa
+111	#F8766D	1982	52.379	Senegal	Africa
+111	#F8766D	1987	55.769	Senegal	Africa
+111	#F8766D	1992	58.196	Senegal	Africa
+111	#F8766D	1997	60.187	Senegal	Africa
+111	#F8766D	2002	61.6	Senegal	Africa
+111	#F8766D	2007	63.062	Senegal	Africa
+112	#00B0F6	1952	57.996	Serbia	Europe
+112	#00B0F6	1957	61.685	Serbia	Europe
+112	#00B0F6	1962	64.531	Serbia	Europe
+112	#00B0F6	1967	66.914	Serbia	Europe
+112	#00B0F6	1972	68.7	Serbia	Europe
+112	#00B0F6	1977	70.3	Serbia	Europe
+112	#00B0F6	1982	70.162	Serbia	Europe
+112	#00B0F6	1987	71.218	Serbia	Europe
+112	#00B0F6	1992	71.659	Serbia	Europe
+112	#00B0F6	1997	72.232	Serbia	Europe
+112	#00B0F6	2002	73.213	Serbia	Europe
+112	#00B0F6	2007	74.002	Serbia	Europe
+113	#F8766D	1952	30.331	Sierra Leone	Africa
+113	#F8766D	1957	31.57	Sierra Leone	Africa
+113	#F8766D	1962	32.767	Sierra Leone	Africa
+113	#F8766D	1967	34.113	Sierra Leone	Africa
+113	#F8766D	1972	35.4	Sierra Leone	Africa
+113	#F8766D	1977	36.788	Sierra Leone	Africa
+113	#F8766D	1982	38.445	Sierra Leone	Africa
+113	#F8766D	1987	40.006	Sierra Leone	Africa
+113	#F8766D	1992	38.333	Sierra Leone	Africa
+113	#F8766D	1997	39.897	Sierra Leone	Africa
+113	#F8766D	2002	41.012	Sierra Leone	Africa
+113	#F8766D	2007	42.568	Sierra Leone	Africa
+114	#00BF7D	1952	60.396	Singapore	Asia
+114	#00BF7D	1957	63.179	Singapore	Asia
+114	#00BF7D	1962	65.798	Singapore	Asia
+114	#00BF7D	1967	67.946	Singapore	Asia
+114	#00BF7D	1972	69.521	Singapore	Asia
+114	#00BF7D	1977	70.795	Singapore	Asia
+114	#00BF7D	1982	71.76	Singapore	Asia
+114	#00BF7D	1987	73.56	Singapore	Asia
+114	#00BF7D	1992	75.788	Singapore	Asia
+114	#00BF7D	1997	77.158	Singapore	Asia
+114	#00BF7D	2002	78.77	Singapore	Asia
+114	#00BF7D	2007	79.972	Singapore	Asia
+115	#00B0F6	1952	64.36	Slovak Republic	Europe
+115	#00B0F6	1957	67.45	Slovak Republic	Europe
+115	#00B0F6	1962	70.33	Slovak Republic	Europe
+115	#00B0F6	1967	70.98	Slovak Republic	Europe
+115	#00B0F6	1972	70.35	Slovak Republic	Europe
+115	#00B0F6	1977	70.45	Slovak Republic	Europe
+115	#00B0F6	1982	70.8	Slovak Republic	Europe
+115	#00B0F6	1987	71.08	Slovak Republic	Europe
+115	#00B0F6	1992	71.38	Slovak Republic	Europe
+115	#00B0F6	1997	72.71	Slovak Republic	Europe
+115	#00B0F6	2002	73.8	Slovak Republic	Europe
+115	#00B0F6	2007	74.663	Slovak Republic	Europe
+116	#00B0F6	1952	65.57	Slovenia	Europe
+116	#00B0F6	1957	67.85	Slovenia	Europe
+116	#00B0F6	1962	69.15	Slovenia	Europe
+116	#00B0F6	1967	69.18	Slovenia	Europe
+116	#00B0F6	1972	69.82	Slovenia	Europe
+116	#00B0F6	1977	70.97	Slovenia	Europe
+116	#00B0F6	1982	71.063	Slovenia	Europe
+116	#00B0F6	1987	72.25	Slovenia	Europe
+116	#00B0F6	1992	73.64	Slovenia	Europe
+116	#00B0F6	1997	75.13	Slovenia	Europe
+116	#00B0F6	2002	76.66	Slovenia	Europe
+116	#00B0F6	2007	77.926	Slovenia	Europe
+117	#F8766D	1952	32.978	Somalia	Africa
+117	#F8766D	1957	34.977	Somalia	Africa
+117	#F8766D	1962	36.981	Somalia	Africa
+117	#F8766D	1967	38.977	Somalia	Africa
+117	#F8766D	1972	40.973	Somalia	Africa
+117	#F8766D	1977	41.974	Somalia	Africa
+117	#F8766D	1982	42.955	Somalia	Africa
+117	#F8766D	1987	44.501	Somalia	Africa
+117	#F8766D	1992	39.658	Somalia	Africa
+117	#F8766D	1997	43.795	Somalia	Africa
+117	#F8766D	2002	45.936	Somalia	Africa
+117	#F8766D	2007	48.159	Somalia	Africa
+118	#F8766D	1952	45.009	South Africa	Africa
+118	#F8766D	1957	47.985	South Africa	Africa
+118	#F8766D	1962	49.951	South Africa	Africa
+118	#F8766D	1967	51.927	South Africa	Africa
+118	#F8766D	1972	53.696	South Africa	Africa
+118	#F8766D	1977	55.527	South Africa	Africa
+118	#F8766D	1982	58.161	South Africa	Africa
+118	#F8766D	1987	60.834	South Africa	Africa
+118	#F8766D	1992	61.888	South Africa	Africa
+118	#F8766D	1997	60.236	South Africa	Africa
+118	#F8766D	2002	53.365	South Africa	Africa
+118	#F8766D	2007	49.339	South Africa	Africa
+119	#00B0F6	1952	64.94	Spain	Europe
+119	#00B0F6	1957	66.66	Spain	Europe
+119	#00B0F6	1962	69.69	Spain	Europe
+119	#00B0F6	1967	71.44	Spain	Europe
+119	#00B0F6	1972	73.06	Spain	Europe
+119	#00B0F6	1977	74.39	Spain	Europe
+119	#00B0F6	1982	76.3	Spain	Europe
+119	#00B0F6	1987	76.9	Spain	Europe
+119	#00B0F6	1992	77.57	Spain	Europe
+119	#00B0F6	1997	78.77	Spain	Europe
+119	#00B0F6	2002	79.78	Spain	Europe
+119	#00B0F6	2007	80.941	Spain	Europe
+120	#00BF7D	1952	57.593	Sri Lanka	Asia
+120	#00BF7D	1957	61.456	Sri Lanka	Asia
+120	#00BF7D	1962	62.192	Sri Lanka	Asia
+120	#00BF7D	1967	64.266	Sri Lanka	Asia
+120	#00BF7D	1972	65.042	Sri Lanka	Asia
+120	#00BF7D	1977	65.949	Sri Lanka	Asia
+120	#00BF7D	1982	68.757	Sri Lanka	Asia
+120	#00BF7D	1987	69.011	Sri Lanka	Asia
+120	#00BF7D	1992	70.379	Sri Lanka	Asia
+120	#00BF7D	1997	70.457	Sri Lanka	Asia
+120	#00BF7D	2002	70.815	Sri Lanka	Asia
+120	#00BF7D	2007	72.396	Sri Lanka	Asia
+121	#F8766D	1952	38.635	Sudan	Africa
+121	#F8766D	1957	39.624	Sudan	Africa
+121	#F8766D	1962	40.87	Sudan	Africa
+121	#F8766D	1967	42.858	Sudan	Africa
+121	#F8766D	1972	45.083	Sudan	Africa
+121	#F8766D	1977	47.8	Sudan	Africa
+121	#F8766D	1982	50.338	Sudan	Africa
+121	#F8766D	1987	51.744	Sudan	Africa
+121	#F8766D	1992	53.556	Sudan	Africa
+121	#F8766D	1997	55.373	Sudan	Africa
+121	#F8766D	2002	56.369	Sudan	Africa
+121	#F8766D	2007	58.556	Sudan	Africa
+122	#F8766D	1952	41.407	Swaziland	Africa
+122	#F8766D	1957	43.424	Swaziland	Africa
+122	#F8766D	1962	44.992	Swaziland	Africa
+122	#F8766D	1967	46.633	Swaziland	Africa
+122	#F8766D	1972	49.552	Swaziland	Africa
+122	#F8766D	1977	52.537	Swaziland	Africa
+122	#F8766D	1982	55.561	Swaziland	Africa
+122	#F8766D	1987	57.678	Swaziland	Africa
+122	#F8766D	1992	58.474	Swaziland	Africa
+122	#F8766D	1997	54.289	Swaziland	Africa
+122	#F8766D	2002	43.869	Swaziland	Africa
+122	#F8766D	2007	39.613	Swaziland	Africa
+123	#00B0F6	1952	71.86	Sweden	Europe
+123	#00B0F6	1957	72.49	Sweden	Europe
+123	#00B0F6	1962	73.37	Sweden	Europe
+123	#00B0F6	1967	74.16	Sweden	Europe
+123	#00B0F6	1972	74.72	Sweden	Europe
+123	#00B0F6	1977	75.44	Sweden	Europe
+123	#00B0F6	1982	76.42	Sweden	Europe
+123	#00B0F6	1987	77.19	Sweden	Europe
+123	#00B0F6	1992	78.16	Sweden	Europe
+123	#00B0F6	1997	79.39	Sweden	Europe
+123	#00B0F6	2002	80.04	Sweden	Europe
+123	#00B0F6	2007	80.884	Sweden	Europe
+124	#00B0F6	1952	69.62	Switzerland	Europe
+124	#00B0F6	1957	70.56	Switzerland	Europe
+124	#00B0F6	1962	71.32	Switzerland	Europe
+124	#00B0F6	1967	72.77	Switzerland	Europe
+124	#00B0F6	1972	73.78	Switzerland	Europe
+124	#00B0F6	1977	75.39	Switzerland	Europe
+124	#00B0F6	1982	76.21	Switzerland	Europe
+124	#00B0F6	1987	77.41	Switzerland	Europe
+124	#00B0F6	1992	78.03	Switzerland	Europe
+124	#00B0F6	1997	79.37	Switzerland	Europe
+124	#00B0F6	2002	80.62	Switzerland	Europe
+124	#00B0F6	2007	81.701	Switzerland	Europe
+125	#00BF7D	1952	45.883	Syria	Asia
+125	#00BF7D	1957	48.284	Syria	Asia
+125	#00BF7D	1962	50.305	Syria	Asia
+125	#00BF7D	1967	53.655	Syria	Asia
+125	#00BF7D	1972	57.296	Syria	Asia
+125	#00BF7D	1977	61.195	Syria	Asia
+125	#00BF7D	1982	64.59	Syria	Asia
+125	#00BF7D	1987	66.974	Syria	Asia
+125	#00BF7D	1992	69.249	Syria	Asia
+125	#00BF7D	1997	71.527	Syria	Asia
+125	#00BF7D	2002	73.053	Syria	Asia
+125	#00BF7D	2007	74.143	Syria	Asia
+126	#00BF7D	1952	58.5	Taiwan	Asia
+126	#00BF7D	1957	62.4	Taiwan	Asia
+126	#00BF7D	1962	65.2	Taiwan	Asia
+126	#00BF7D	1967	67.5	Taiwan	Asia
+126	#00BF7D	1972	69.39	Taiwan	Asia
+126	#00BF7D	1977	70.59	Taiwan	Asia
+126	#00BF7D	1982	72.16	Taiwan	Asia
+126	#00BF7D	1987	73.4	Taiwan	Asia
+126	#00BF7D	1992	74.26	Taiwan	Asia
+126	#00BF7D	1997	75.25	Taiwan	Asia
+126	#00BF7D	2002	76.99	Taiwan	Asia
+126	#00BF7D	2007	78.4	Taiwan	Asia
+127	#F8766D	1952	41.215	Tanzania	Africa
+127	#F8766D	1957	42.974	Tanzania	Africa
+127	#F8766D	1962	44.246	Tanzania	Africa
+127	#F8766D	1967	45.757	Tanzania	Africa
+127	#F8766D	1972	47.62	Tanzania	Africa
+127	#F8766D	1977	49.919	Tanzania	Africa
+127	#F8766D	1982	50.608	Tanzania	Africa
+127	#F8766D	1987	51.535	Tanzania	Africa
+127	#F8766D	1992	50.44	Tanzania	Africa
+127	#F8766D	1997	48.466	Tanzania	Africa
+127	#F8766D	2002	49.651	Tanzania	Africa
+127	#F8766D	2007	52.517	Tanzania	Africa
+128	#00BF7D	1952	50.848	Thailand	Asia
+128	#00BF7D	1957	53.63	Thailand	Asia
+128	#00BF7D	1962	56.061	Thailand	Asia
+128	#00BF7D	1967	58.285	Thailand	Asia
+128	#00BF7D	1972	60.405	Thailand	Asia
+128	#00BF7D	1977	62.494	Thailand	Asia
+128	#00BF7D	1982	64.597	Thailand	Asia
+128	#00BF7D	1987	66.084	Thailand	Asia
+128	#00BF7D	1992	67.298	Thailand	Asia
+128	#00BF7D	1997	67.521	Thailand	Asia
+128	#00BF7D	2002	68.564	Thailand	Asia
+128	#00BF7D	2007	70.616	Thailand	Asia
+129	#F8766D	1952	38.596	Togo	Africa
+129	#F8766D	1957	41.208	Togo	Africa
+129	#F8766D	1962	43.922	Togo	Africa
+129	#F8766D	1967	46.769	Togo	Africa
+129	#F8766D	1972	49.759	Togo	Africa
+129	#F8766D	1977	52.887	Togo	Africa
+129	#F8766D	1982	55.471	Togo	Africa
+129	#F8766D	1987	56.941	Togo	Africa
+129	#F8766D	1992	58.061	Togo	Africa
+129	#F8766D	1997	58.39	Togo	Africa
+129	#F8766D	2002	57.561	Togo	Africa
+129	#F8766D	2007	58.42	Togo	Africa
+130	#A3A500	1952	59.1	Trinidad and Tobago	Americas
+130	#A3A500	1957	61.8	Trinidad and Tobago	Americas
+130	#A3A500	1962	64.9	Trinidad and Tobago	Americas
+130	#A3A500	1967	65.4	Trinidad and Tobago	Americas
+130	#A3A500	1972	65.9	Trinidad and Tobago	Americas
+130	#A3A500	1977	68.3	Trinidad and Tobago	Americas
+130	#A3A500	1982	68.832	Trinidad and Tobago	Americas
+130	#A3A500	1987	69.582	Trinidad and Tobago	Americas
+130	#A3A500	1992	69.862	Trinidad and Tobago	Americas
+130	#A3A500	1997	69.465	Trinidad and Tobago	Americas
+130	#A3A500	2002	68.976	Trinidad and Tobago	Americas
+130	#A3A500	2007	69.819	Trinidad and Tobago	Americas
+131	#F8766D	1952	44.6	Tunisia	Africa
+131	#F8766D	1957	47.1	Tunisia	Africa
+131	#F8766D	1962	49.579	Tunisia	Africa
+131	#F8766D	1967	52.053	Tunisia	Africa
+131	#F8766D	1972	55.602	Tunisia	Africa
+131	#F8766D	1977	59.837	Tunisia	Africa
+131	#F8766D	1982	64.048	Tunisia	Africa
+131	#F8766D	1987	66.894	Tunisia	Africa
+131	#F8766D	1992	70.001	Tunisia	Africa
+131	#F8766D	1997	71.973	Tunisia	Africa
+131	#F8766D	2002	73.042	Tunisia	Africa
+131	#F8766D	2007	73.923	Tunisia	Africa
+132	#00B0F6	1952	43.585	Turkey	Europe
+132	#00B0F6	1957	48.079	Turkey	Europe
+132	#00B0F6	1962	52.098	Turkey	Europe
+132	#00B0F6	1967	54.336	Turkey	Europe
+132	#00B0F6	1972	57.005	Turkey	Europe
+132	#00B0F6	1977	59.507	Turkey	Europe
+132	#00B0F6	1982	61.036	Turkey	Europe
+132	#00B0F6	1987	63.108	Turkey	Europe
+132	#00B0F6	1992	66.146	Turkey	Europe
+132	#00B0F6	1997	68.835	Turkey	Europe
+132	#00B0F6	2002	70.845	Turkey	Europe
+132	#00B0F6	2007	71.777	Turkey	Europe
+133	#F8766D	1952	39.978	Uganda	Africa
+133	#F8766D	1957	42.571	Uganda	Africa
+133	#F8766D	1962	45.344	Uganda	Africa
+133	#F8766D	1967	48.051	Uganda	Africa
+133	#F8766D	1972	51.016	Uganda	Africa
+133	#F8766D	1977	50.35	Uganda	Africa
+133	#F8766D	1982	49.849	Uganda	Africa
+133	#F8766D	1987	51.509	Uganda	Africa
+133	#F8766D	1992	48.825	Uganda	Africa
+133	#F8766D	1997	44.578	Uganda	Africa
+133	#F8766D	2002	47.813	Uganda	Africa
+133	#F8766D	2007	51.542	Uganda	Africa
+134	#00B0F6	1952	69.18	United Kingdom	Europe
+134	#00B0F6	1957	70.42	United Kingdom	Europe
+134	#00B0F6	1962	70.76	United Kingdom	Europe
+134	#00B0F6	1967	71.36	United Kingdom	Europe
+134	#00B0F6	1972	72.01	United Kingdom	Europe
+134	#00B0F6	1977	72.76	United Kingdom	Europe
+134	#00B0F6	1982	74.04	United Kingdom	Europe
+134	#00B0F6	1987	75.007	United Kingdom	Europe
+134	#00B0F6	1992	76.42	United Kingdom	Europe
+134	#00B0F6	1997	77.218	United Kingdom	Europe
+134	#00B0F6	2002	78.471	United Kingdom	Europe
+134	#00B0F6	2007	79.425	United Kingdom	Europe
+135	#A3A500	1952	68.44	United States	Americas
+135	#A3A500	1957	69.49	United States	Americas
+135	#A3A500	1962	70.21	United States	Americas
+135	#A3A500	1967	70.76	United States	Americas
+135	#A3A500	1972	71.34	United States	Americas
+135	#A3A500	1977	73.38	United States	Americas
+135	#A3A500	1982	74.65	United States	Americas
+135	#A3A500	1987	75.02	United States	Americas
+135	#A3A500	1992	76.09	United States	Americas
+135	#A3A500	1997	76.81	United States	Americas
+135	#A3A500	2002	77.31	United States	Americas
+135	#A3A500	2007	78.242	United States	Americas
+136	#A3A500	1952	66.071	Uruguay	Americas
+136	#A3A500	1957	67.044	Uruguay	Americas
+136	#A3A500	1962	68.253	Uruguay	Americas
+136	#A3A500	1967	68.468	Uruguay	Americas
+136	#A3A500	1972	68.673	Uruguay	Americas
+136	#A3A500	1977	69.481	Uruguay	Americas
+136	#A3A500	1982	70.805	Uruguay	Americas
+136	#A3A500	1987	71.918	Uruguay	Americas
+136	#A3A500	1992	72.752	Uruguay	Americas
+136	#A3A500	1997	74.223	Uruguay	Americas
+136	#A3A500	2002	75.307	Uruguay	Americas
+136	#A3A500	2007	76.384	Uruguay	Americas
+137	#A3A500	1952	55.088	Venezuela	Americas
+137	#A3A500	1957	57.907	Venezuela	Americas
+137	#A3A500	1962	60.77	Venezuela	Americas
+137	#A3A500	1967	63.479	Venezuela	Americas
+137	#A3A500	1972	65.712	Venezuela	Americas
+137	#A3A500	1977	67.456	Venezuela	Americas
+137	#A3A500	1982	68.557	Venezuela	Americas
+137	#A3A500	1987	70.19	Venezuela	Americas
+137	#A3A500	1992	71.15	Venezuela	Americas
+137	#A3A500	1997	72.146	Venezuela	Americas
+137	#A3A500	2002	72.766	Venezuela	Americas
+137	#A3A500	2007	73.747	Venezuela	Americas
+138	#00BF7D	1952	40.412	Vietnam	Asia
+138	#00BF7D	1957	42.887	Vietnam	Asia
+138	#00BF7D	1962	45.363	Vietnam	Asia
+138	#00BF7D	1967	47.838	Vietnam	Asia
+138	#00BF7D	1972	50.254	Vietnam	Asia
+138	#00BF7D	1977	55.764	Vietnam	Asia
+138	#00BF7D	1982	58.816	Vietnam	Asia
+138	#00BF7D	1987	62.82	Vietnam	Asia
+138	#00BF7D	1992	67.662	Vietnam	Asia
+138	#00BF7D	1997	70.672	Vietnam	Asia
+138	#00BF7D	2002	73.017	Vietnam	Asia
+138	#00BF7D	2007	74.249	Vietnam	Asia
+139	#00BF7D	1952	43.16	West Bank and Gaza	Asia
+139	#00BF7D	1957	45.671	West Bank and Gaza	Asia
+139	#00BF7D	1962	48.127	West Bank and Gaza	Asia
+139	#00BF7D	1967	51.631	West Bank and Gaza	Asia
+139	#00BF7D	1972	56.532	West Bank and Gaza	Asia
+139	#00BF7D	1977	60.765	West Bank and Gaza	Asia
+139	#00BF7D	1982	64.406	West Bank and Gaza	Asia
+139	#00BF7D	1987	67.046	West Bank and Gaza	Asia
+139	#00BF7D	1992	69.718	West Bank and Gaza	Asia
+139	#00BF7D	1997	71.096	West Bank and Gaza	Asia
+139	#00BF7D	2002	72.37	West Bank and Gaza	Asia
+139	#00BF7D	2007	73.422	West Bank and Gaza	Asia
+140	#00BF7D	1952	32.548	Yemen, Rep.	Asia
+140	#00BF7D	1957	33.97	Yemen, Rep.	Asia
+140	#00BF7D	1962	35.18	Yemen, Rep.	Asia
+140	#00BF7D	1967	36.984	Yemen, Rep.	Asia
+140	#00BF7D	1972	39.848	Yemen, Rep.	Asia
+140	#00BF7D	1977	44.175	Yemen, Rep.	Asia
+140	#00BF7D	1982	49.113	Yemen, Rep.	Asia
+140	#00BF7D	1987	52.922	Yemen, Rep.	Asia
+140	#00BF7D	1992	55.599	Yemen, Rep.	Asia
+140	#00BF7D	1997	58.02	Yemen, Rep.	Asia
+140	#00BF7D	2002	60.308	Yemen, Rep.	Asia
+140	#00BF7D	2007	62.698	Yemen, Rep.	Asia
+141	#F8766D	1952	42.038	Zambia	Africa
+141	#F8766D	1957	44.077	Zambia	Africa
+141	#F8766D	1962	46.023	Zambia	Africa
+141	#F8766D	1967	47.768	Zambia	Africa
+141	#F8766D	1972	50.107	Zambia	Africa
+141	#F8766D	1977	51.386	Zambia	Africa
+141	#F8766D	1982	51.821	Zambia	Africa
+141	#F8766D	1987	50.821	Zambia	Africa
+141	#F8766D	1992	46.1	Zambia	Africa
+141	#F8766D	1997	40.238	Zambia	Africa
+141	#F8766D	2002	39.193	Zambia	Africa
+141	#F8766D	2007	42.384	Zambia	Africa
+142	#F8766D	1952	48.451	Zimbabwe	Africa
+142	#F8766D	1957	50.469	Zimbabwe	Africa
+142	#F8766D	1962	52.358	Zimbabwe	Africa
+142	#F8766D	1967	53.995	Zimbabwe	Africa
+142	#F8766D	1972	55.635	Zimbabwe	Africa
+142	#F8766D	1977	57.674	Zimbabwe	Africa
+142	#F8766D	1982	60.363	Zimbabwe	Africa
+142	#F8766D	1987	62.351	Zimbabwe	Africa
+142	#F8766D	1992	60.377	Zimbabwe	Africa
+142	#F8766D	1997	46.809	Zimbabwe	Africa
+142	#F8766D	2002	39.989	Zimbabwe	Africa
+142	#F8766D	2007	43.487	Zimbabwe	Africa

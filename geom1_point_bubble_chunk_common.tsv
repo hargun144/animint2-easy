@@ -1,0 +1,143 @@
+group	clickSelects	colour	fill	key	showSelected2	tooltip
+1	Afghanistan	#00BF7D	#00BF7D	Afghanistan	Asia	Afghanistan
+1	Albania	#00B0F6	#00B0F6	Albania	Europe	Albania
+1	Algeria	#F8766D	#F8766D	Algeria	Africa	Algeria
+1	Angola	#F8766D	#F8766D	Angola	Africa	Angola
+1	Argentina	#A3A500	#A3A500	Argentina	Americas	Argentina
+1	Australia	#E76BF3	#E76BF3	Australia	Oceania	Australia
+1	Austria	#00B0F6	#00B0F6	Austria	Europe	Austria
+1	Bahrain	#00BF7D	#00BF7D	Bahrain	Asia	Bahrain
+1	Bangladesh	#00BF7D	#00BF7D	Bangladesh	Asia	Bangladesh
+1	Belgium	#00B0F6	#00B0F6	Belgium	Europe	Belgium
+1	Benin	#F8766D	#F8766D	Benin	Africa	Benin
+1	Bolivia	#A3A500	#A3A500	Bolivia	Americas	Bolivia
+1	Bosnia and Herzegovina	#00B0F6	#00B0F6	Bosnia and Herzegovina	Europe	Bosnia and Herzegovina
+1	Botswana	#F8766D	#F8766D	Botswana	Africa	Botswana
+1	Brazil	#A3A500	#A3A500	Brazil	Americas	Brazil
+1	Bulgaria	#00B0F6	#00B0F6	Bulgaria	Europe	Bulgaria
+1	Burkina Faso	#F8766D	#F8766D	Burkina Faso	Africa	Burkina Faso
+1	Burundi	#F8766D	#F8766D	Burundi	Africa	Burundi
+1	Cambodia	#00BF7D	#00BF7D	Cambodia	Asia	Cambodia
+1	Cameroon	#F8766D	#F8766D	Cameroon	Africa	Cameroon
+1	Canada	#A3A500	#A3A500	Canada	Americas	Canada
+1	Central African Republic	#F8766D	#F8766D	Central African Republic	Africa	Central African Republic
+1	Chad	#F8766D	#F8766D	Chad	Africa	Chad
+1	Chile	#A3A500	#A3A500	Chile	Americas	Chile
+1	China	#00BF7D	#00BF7D	China	Asia	China
+1	Colombia	#A3A500	#A3A500	Colombia	Americas	Colombia
+1	Comoros	#F8766D	#F8766D	Comoros	Africa	Comoros
+1	Congo, Dem. Rep.	#F8766D	#F8766D	Congo, Dem. Rep.	Africa	Congo, Dem. Rep.
+1	Congo, Rep.	#F8766D	#F8766D	Congo, Rep.	Africa	Congo, Rep.
+1	Costa Rica	#A3A500	#A3A500	Costa Rica	Americas	Costa Rica
+1	Cote d'Ivoire	#F8766D	#F8766D	Cote d'Ivoire	Africa	Cote d'Ivoire
+1	Croatia	#00B0F6	#00B0F6	Croatia	Europe	Croatia
+1	Cuba	#A3A500	#A3A500	Cuba	Americas	Cuba
+1	Czech Republic	#00B0F6	#00B0F6	Czech Republic	Europe	Czech Republic
+1	Denmark	#00B0F6	#00B0F6	Denmark	Europe	Denmark
+1	Djibouti	#F8766D	#F8766D	Djibouti	Africa	Djibouti
+1	Dominican Republic	#A3A500	#A3A500	Dominican Republic	Americas	Dominican Republic
+1	Ecuador	#A3A500	#A3A500	Ecuador	Americas	Ecuador
+1	Egypt	#F8766D	#F8766D	Egypt	Africa	Egypt
+1	El Salvador	#A3A500	#A3A500	El Salvador	Americas	El Salvador
+1	Equatorial Guinea	#F8766D	#F8766D	Equatorial Guinea	Africa	Equatorial Guinea
+1	Eritrea	#F8766D	#F8766D	Eritrea	Africa	Eritrea
+1	Ethiopia	#F8766D	#F8766D	Ethiopia	Africa	Ethiopia
+1	Finland	#00B0F6	#00B0F6	Finland	Europe	Finland
+1	France	#00B0F6	#00B0F6	France	Europe	France
+1	Gabon	#F8766D	#F8766D	Gabon	Africa	Gabon
+1	Gambia	#F8766D	#F8766D	Gambia	Africa	Gambia
+1	Germany	#00B0F6	#00B0F6	Germany	Europe	Germany
+1	Ghana	#F8766D	#F8766D	Ghana	Africa	Ghana
+1	Greece	#00B0F6	#00B0F6	Greece	Europe	Greece
+1	Guatemala	#A3A500	#A3A500	Guatemala	Americas	Guatemala
+1	Guinea	#F8766D	#F8766D	Guinea	Africa	Guinea
+1	Guinea-Bissau	#F8766D	#F8766D	Guinea-Bissau	Africa	Guinea-Bissau
+1	Haiti	#A3A500	#A3A500	Haiti	Americas	Haiti
+1	Honduras	#A3A500	#A3A500	Honduras	Americas	Honduras
+1	Hong Kong, China	#00BF7D	#00BF7D	Hong Kong, China	Asia	Hong Kong, China
+1	Hungary	#00B0F6	#00B0F6	Hungary	Europe	Hungary
+1	Iceland	#00B0F6	#00B0F6	Iceland	Europe	Iceland
+1	India	#00BF7D	#00BF7D	India	Asia	India
+1	Indonesia	#00BF7D	#00BF7D	Indonesia	Asia	Indonesia
+1	Iran	#00BF7D	#00BF7D	Iran	Asia	Iran
+1	Iraq	#00BF7D	#00BF7D	Iraq	Asia	Iraq
+1	Ireland	#00B0F6	#00B0F6	Ireland	Europe	Ireland
+1	Israel	#00BF7D	#00BF7D	Israel	Asia	Israel
+1	Italy	#00B0F6	#00B0F6	Italy	Europe	Italy
+1	Jamaica	#A3A500	#A3A500	Jamaica	Americas	Jamaica
+1	Japan	#00BF7D	#00BF7D	Japan	Asia	Japan
+1	Jordan	#00BF7D	#00BF7D	Jordan	Asia	Jordan
+1	Kenya	#F8766D	#F8766D	Kenya	Africa	Kenya
+1	Korea, Dem. Rep.	#00BF7D	#00BF7D	Korea, Dem. Rep.	Asia	Korea, Dem. Rep.
+1	Korea, Rep.	#00BF7D	#00BF7D	Korea, Rep.	Asia	Korea, Rep.
+1	Kuwait	#00BF7D	#00BF7D	Kuwait	Asia	Kuwait
+1	Lebanon	#00BF7D	#00BF7D	Lebanon	Asia	Lebanon
+1	Lesotho	#F8766D	#F8766D	Lesotho	Africa	Lesotho
+1	Liberia	#F8766D	#F8766D	Liberia	Africa	Liberia
+1	Libya	#F8766D	#F8766D	Libya	Africa	Libya
+1	Madagascar	#F8766D	#F8766D	Madagascar	Africa	Madagascar
+1	Malawi	#F8766D	#F8766D	Malawi	Africa	Malawi
+1	Malaysia	#00BF7D	#00BF7D	Malaysia	Asia	Malaysia
+1	Mali	#F8766D	#F8766D	Mali	Africa	Mali
+1	Mauritania	#F8766D	#F8766D	Mauritania	Africa	Mauritania
+1	Mauritius	#F8766D	#F8766D	Mauritius	Africa	Mauritius
+1	Mexico	#A3A500	#A3A500	Mexico	Americas	Mexico
+1	Mongolia	#00BF7D	#00BF7D	Mongolia	Asia	Mongolia
+1	Montenegro	#00B0F6	#00B0F6	Montenegro	Europe	Montenegro
+1	Morocco	#F8766D	#F8766D	Morocco	Africa	Morocco
+1	Mozambique	#F8766D	#F8766D	Mozambique	Africa	Mozambique
+1	Myanmar	#00BF7D	#00BF7D	Myanmar	Asia	Myanmar
+1	Namibia	#F8766D	#F8766D	Namibia	Africa	Namibia
+1	Nepal	#00BF7D	#00BF7D	Nepal	Asia	Nepal
+1	Netherlands	#00B0F6	#00B0F6	Netherlands	Europe	Netherlands
+1	New Zealand	#E76BF3	#E76BF3	New Zealand	Oceania	New Zealand
+1	Nicaragua	#A3A500	#A3A500	Nicaragua	Americas	Nicaragua
+1	Niger	#F8766D	#F8766D	Niger	Africa	Niger
+1	Nigeria	#F8766D	#F8766D	Nigeria	Africa	Nigeria
+1	Norway	#00B0F6	#00B0F6	Norway	Europe	Norway
+1	Oman	#00BF7D	#00BF7D	Oman	Asia	Oman
+1	Pakistan	#00BF7D	#00BF7D	Pakistan	Asia	Pakistan
+1	Panama	#A3A500	#A3A500	Panama	Americas	Panama
+1	Paraguay	#A3A500	#A3A500	Paraguay	Americas	Paraguay
+1	Peru	#A3A500	#A3A500	Peru	Americas	Peru
+1	Philippines	#00BF7D	#00BF7D	Philippines	Asia	Philippines
+1	Poland	#00B0F6	#00B0F6	Poland	Europe	Poland
+1	Portugal	#00B0F6	#00B0F6	Portugal	Europe	Portugal
+1	Puerto Rico	#A3A500	#A3A500	Puerto Rico	Americas	Puerto Rico
+1	Reunion	#F8766D	#F8766D	Reunion	Africa	Reunion
+1	Romania	#00B0F6	#00B0F6	Romania	Europe	Romania
+1	Rwanda	#F8766D	#F8766D	Rwanda	Africa	Rwanda
+1	Sao Tome and Principe	#F8766D	#F8766D	Sao Tome and Principe	Africa	Sao Tome and Principe
+1	Saudi Arabia	#00BF7D	#00BF7D	Saudi Arabia	Asia	Saudi Arabia
+1	Senegal	#F8766D	#F8766D	Senegal	Africa	Senegal
+1	Serbia	#00B0F6	#00B0F6	Serbia	Europe	Serbia
+1	Sierra Leone	#F8766D	#F8766D	Sierra Leone	Africa	Sierra Leone
+1	Singapore	#00BF7D	#00BF7D	Singapore	Asia	Singapore
+1	Slovak Republic	#00B0F6	#00B0F6	Slovak Republic	Europe	Slovak Republic
+1	Slovenia	#00B0F6	#00B0F6	Slovenia	Europe	Slovenia
+1	Somalia	#F8766D	#F8766D	Somalia	Africa	Somalia
+1	South Africa	#F8766D	#F8766D	South Africa	Africa	South Africa
+1	Spain	#00B0F6	#00B0F6	Spain	Europe	Spain
+1	Sri Lanka	#00BF7D	#00BF7D	Sri Lanka	Asia	Sri Lanka
+1	Sudan	#F8766D	#F8766D	Sudan	Africa	Sudan
+1	Swaziland	#F8766D	#F8766D	Swaziland	Africa	Swaziland
+1	Sweden	#00B0F6	#00B0F6	Sweden	Europe	Sweden
+1	Switzerland	#00B0F6	#00B0F6	Switzerland	Europe	Switzerland
+1	Syria	#00BF7D	#00BF7D	Syria	Asia	Syria
+1	Taiwan	#00BF7D	#00BF7D	Taiwan	Asia	Taiwan
+1	Tanzania	#F8766D	#F8766D	Tanzania	Africa	Tanzania
+1	Thailand	#00BF7D	#00BF7D	Thailand	Asia	Thailand
+1	Togo	#F8766D	#F8766D	Togo	Africa	Togo
+1	Trinidad and Tobago	#A3A500	#A3A500	Trinidad and Tobago	Americas	Trinidad and Tobago
+1	Tunisia	#F8766D	#F8766D	Tunisia	Africa	Tunisia
+1	Turkey	#00B0F6	#00B0F6	Turkey	Europe	Turkey
+1	Uganda	#F8766D	#F8766D	Uganda	Africa	Uganda
+1	United Kingdom	#00B0F6	#00B0F6	United Kingdom	Europe	United Kingdom
+1	United States	#A3A500	#A3A500	United States	Americas	United States
+1	Uruguay	#A3A500	#A3A500	Uruguay	Americas	Uruguay
+1	Venezuela	#A3A500	#A3A500	Venezuela	Americas	Venezuela
+1	Vietnam	#00BF7D	#00BF7D	Vietnam	Asia	Vietnam
+1	West Bank and Gaza	#00BF7D	#00BF7D	West Bank and Gaza	Asia	West Bank and Gaza
+1	Yemen, Rep.	#00BF7D	#00BF7D	Yemen, Rep.	Asia	Yemen, Rep.
+1	Zambia	#F8766D	#F8766D	Zambia	Africa	Zambia
+1	Zimbabwe	#F8766D	#F8766D	Zimbabwe	Africa	Zimbabwe
